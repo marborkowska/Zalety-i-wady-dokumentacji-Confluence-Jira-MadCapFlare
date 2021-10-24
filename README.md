@@ -1,0 +1,1 @@
+# Wady-i-zalety-dokumentacji-Confluence-Jira-Flare
