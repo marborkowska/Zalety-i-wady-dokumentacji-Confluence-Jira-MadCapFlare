@@ -14,6 +14,8 @@ Celem tego opracowania jest zaprezentowanie dobrych i słabych stron dokumentacj
   - [Dokumentacja Flare](#dokumentacja-flare)
     - [Zalety](#zalety-2)
     - [Wady](#wady-2)
+  - [Podsumowanie](#podsumowanie)
+ 
 
 <!-- Example of paragraph of text -->
 ## Dokumentacja Confluence
@@ -27,6 +29,8 @@ Celem tego opracowania jest zaprezentowanie dobrych i słabych stron dokumentacj
 ## Dokumentacja Flare
 ### Zalety
 ### Wady
+
+## Podsumowanie
 
 <!-- Example of another paragraph -->
 
