@@ -1,7 +1,7 @@
 <!-- Example for normal text -->
 
 <!-- Example for title -->
-# Wady i zalety dokumentacji Confluence/Jira/Flare
+# Zalety i wady dokumentacji Confluence/Jira/Flare
 <!-- Here comes the TOC -->  
 
   - [Dokumentacja Confluence](#dokumentacja-confluence)
