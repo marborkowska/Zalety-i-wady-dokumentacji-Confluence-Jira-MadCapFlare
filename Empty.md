@@ -1,10 +1,31 @@
 <!-- Example for normal text -->
 
 <!-- Example for title -->
+# Wady i zalety dokumentacji Confluence/Jira/Flare
+<!-- Here comes the TOC -->  
 
-<!-- Here comes the TOC -->
+  - [Dokumentacja Confluence](#dokumentacja-confluence)
+    - [Zalety](#zalety)
+    - [Wady](#wady)
+  - [Dokumentacja Jira](#dokumentacja-jira)
+    - [Zalety](#zalety-1)
+    - [Wady](#wady-1)
+  - [Dokumentacja Flare](#dokumentacja-flare)
+    - [Zalety](#zalety-2)
+    - [Wady](#wady-2)
 
 <!-- Example of paragraph of text -->
+## Dokumentacja Confluence
+### Zalety
+### Wady
+
+## Dokumentacja Jira
+### Zalety
+### Wady
+
+## Dokumentacja Flare
+### Zalety
+### Wady
 
 <!-- Example of another paragraph -->
 
