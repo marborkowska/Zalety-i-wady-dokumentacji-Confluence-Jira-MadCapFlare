@@ -2,7 +2,7 @@
 
 <!-- Example for title -->
 # Zalety i wady dokumentacji Confluence/Jira/Flare
-Celem tego opracowania jest zaprezentowanie dobrych i słabych stron dokumentacji wskazanych narzędzi.
+Celem tego opracowania jest zaprezentowanie dobrych i słabych stron dokumentacji wskazanych powyżej narzędzi.
 <!-- Here comes the TOC -->  
 
   - [Dokumentacja Confluence](#dokumentacja-confluence)
