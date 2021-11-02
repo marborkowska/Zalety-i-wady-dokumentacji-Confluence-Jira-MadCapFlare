@@ -62,9 +62,9 @@ Na podstawie wskazanej powyżej analizy moim zdaniem najwięcej dobrych stron ma
 | Aspekt           | Confluence       | Jira             | Flare            |
 | ---------------- | ---------------- | ---------------- | ---------------- |
 | Dostępność   | Content cell 2   | +++   | ++  |
-| Czytelność | Content column 2 | Content column 3 | Content column 4 |
-+++ - 
-++ - 
+| Czytelność | Content column 2 | Content column 3 | Content column 4 | 
+
+
 
 <!-- Example of another paragraph -->
 
