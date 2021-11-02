@@ -30,6 +30,7 @@ Dokumentacja jest dostępna na stronie [Atlassian Support](https://support.atlas
 ![wyszukiwarka](Jira_screen4.png)
 - Bardzo prosty, wręcz minimalistyczny, przejrzysty interfejs (jedynie 5 kolorów)
 - Dokumentacja to zbiór linków prowadzących do coraz bardziej szczegółówych treści. Ma strukturę drzewka kategorii – od ogółu przechodzi się do szczegółu.
+![układ](Jira_screen.png)
 - Po najechaniu kursorem na tytuł wyświetla się krótkie podsumowanie zawartości.
 ![podsumowanie](Jira_screen7.png) 
 - Wszystkie treści są zebrane w zaledwie 7 głównych sekcji, co sprawia wrażenie braku przytłoczenia nadmiarem informacji. 
