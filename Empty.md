@@ -30,15 +30,19 @@ Dokumentacja jest dostępna na stronie [Atlassian Support](https://support.atlas
 
 ![wyszukiwarka](Jira_screen4.png)
 - Bardzo prosty, wręcz minimalistyczny, przejrzysty interfejs (jedynie 5 kolorów)
+
 - Dokumentacja to zbiór linków prowadzących do coraz bardziej szczegółówych treści. Ma strukturę drzewka kategorii – od ogółu przechodzi się do szczegółu.
+
+- Nagłówki są napisane większą czcionką, a pod spodem jest krótka informacja na temat zawartości sekcji, co zapewnia większą czytelność i szybsze dotarcie do poszukiwanych treści.
   
 ![układ](Jira_screen.png)
 - Po najechaniu kursorem na tytuł wyświetla się krótkie podsumowanie zawartości.
   
 ![podsumowanie](Jira_screen7.png) 
-- Wszystkie treści są zebrane w zaledwie 7 głównych sekcji, co sprawia wrażenie braku przytłoczenia nadmiarem informacji. 
-- Nagłówki są napisane większą czcionką, a pod spodem jest krótka informacja na temat zawartości sekcji, co zapewnia większą czytelność i szybsze dotarcie do poszukiwanych treści.
+- Wszystkie treści są zebrane w zaledwie 7 głównych sekcji, co sprawia wrażenie braku przytłoczenia nadmiarem informacji.
+ 
 - Na głównym ekranie w każdej sekcji znajduje się tylko 5 linków. Resztę można podejrzeć po kliknięciu w Show more, co znów sprawia, że nie jest wyświetlanych za dużo informacji na raz.
+
 - Czytelna kategoryzacja treści – stosowane są listy numerowane, wypunktowane, krótkie akapity. Treści z aplikacji są **wytłuszczone** lub napisane *kursywą*. Stosowane są screeny i tabelki z elementami graficznymi.
   
 ![tłuste](Jira_screen6.png)
@@ -46,15 +50,20 @@ Dokumentacja jest dostępna na stronie [Atlassian Support](https://support.atlas
 
 ![komunikat](Jira_screen5.png)
 - Prosty język (simplified English) – strona czynna czasowników, krótkie zdania, forma bezpośrednia „you”
+
 - Można podejrzeć poprzednią wersję dokumentacji danej funkcjonalności, jeśli zostały w niej wprowadzone zmiany.
   
 ![komunikat](Jira_screen11.png)
 - U góry każdej strony jest ścieżka kategorii.
 
 ![ścieżka](Jira_screen9.png)
-- Po lewej stronie można kliknąć na ![trzy kreski](Jira_screen3.png) i wyświetli się menu kontekstowe.
+- Po lewej stronie można kliknąć na ![trzy kreski](Jira_screen3.png) i wyświetli się menu kontekstowe. 
+
 - Na każdej stronie jest informacja o tym, kiedy ją ostatnio aktualizowano.
+
+![ścieżka](Jira_screen12.png)
 - W poszczególnych rozdziałach po prawej stronie są linki do powiązanych treści.
+
 - Pod koniec każdej sekcji jest pytanie o przydatność treści dla użytkownika i miejsce na udzielenie feedbacku, co wpisuje się w aktualny trend w komunikacji technicznej.
 
 ![feedback](Jira_screen8.png)
@@ -62,9 +71,13 @@ Dokumentacja jest dostępna na stronie [Atlassian Support](https://support.atlas
 
 ### Wady
 - Dla jednych prosty interfejs to zaleta, ale dla innych może być wadą. Brak elementów graficznych na stronie, np. podziału sekcji na kolorowe kafelki (klikalne).
+
 - Stronę startową trzeba dość sporo scrollować, aby zobaczyć, co znajduje się na dole. Treści nie są umieszczone tak, aby się wyświetlały bez konieczności scrollowania (brak ikonek).
-- Podstrony również wymagają scrollowania. Jest co prawda klikalny spis treści, ale znajduje się on po prawej stronie, poniżej powiązanych treści i nie rzuca się w oczy. Powinien on być umiejscowiony w bardziej widocznym miejscu. 
+
+- Podstrony również wymagają scrollowania. Jest co prawda klikalny spis treści, ale znajduje się on po prawej stronie, poniżej powiązanych treści i nie rzuca się w oczy. Powinien on być umiejscowiony w bardziej widocznym miejscu.
+ 
 - Dokumentacja jest dostępna wyłącznie w języku angielskim. Wzorem Microsoftu można by było zapewnić chociażby maszynowe tłumaczenie na inne języki.
+
 - Brak materiałów interaktywnych, jak choćby krótkich filmików wideo.
 
 ## Dokumentacja Flare
