@@ -46,7 +46,7 @@ Dokumentacja jest dostępna na stronie [Atlassian Support](https://support.atlas
 - Pod koniec każdej sekcji jest pytanie o przydatność treści dla użytkownika i miejsce na udzielenie feedbacku. Jest również link do forum Społeczności, na którym można zadać dodatkowe pytania lub rozpocząć dyskusję.
 
 ### Wady
-- Dla jednych prosty interfejs to zaleta, ale dla innych może być wadą. Może warto by było wprowadzić więcej elementów graficznych na stronę, np. podział sekcji na kolorowe kafelki (klikalne).
+- Dla jednych prosty interfejs to zaleta, ale dla innych może być wadą. Brak elementów graficznych na stronie, np. podziału sekcji na kolorowe kafelki (klikalne).
 - Stronę startową trzeba dość sporo scrollować, aby zobaczyć, co znajduje się na dole. Można by było skondensować treści, by się wyświetlały bez konieczności scrollowania (np. ikonki). Byłaby to taka strona wprowadzająca do bardziej szczegółowych treści. 
 - Podstrony również wymagają scrollowania. Jest co prawda klikalny spis treści, ale znajduje się on po prawej stronie, poniżej powiązanych treści i nie rzuca się w oczy. Powinien on być umiejscowiony w bardziej widocznym miejscu. 
 - Dokumentacja jest dostępna wyłącznie w języku angielskim. Wzorem Microsoftu można by było zapewnić chociażby maszynowe tłumaczenie na inne języki.
