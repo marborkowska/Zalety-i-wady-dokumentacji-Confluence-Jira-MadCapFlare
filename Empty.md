@@ -26,8 +26,8 @@ Celem tego opracowania jest zaprezentowanie dobrych i słabych stron dokumentacj
 Dokumentacja jest dostępna na stronie [Atlassian Support](https://support.atlassian.com/jira-software-cloud/resources/). W tej analizie ograniczę się wyłącznie do produktu Jira Software Cloud, mimo iż znalazłam jeszcze inne produkty powiązane z Jirą, np. Jira Software Management.
 
 ### Zalety
-- W centralnym miejscu na stronie jest wyszukiwarka, która poprawnie zwraca wyszukiwane tresci np. po słowie kluczowym i wyświetla się w nowym oknie.
-![wyszukiwarka](Jira_screen4.png)
+- W centralnym miejscu na stronie jest wyszukiwarka, która poprawnie zwraca wyszukiwane tresci np. po słowie kluczowym i wyświetla się w nowym oknie. 
+[wyszukiwarka](Jira_screen4.png)
 - Bardzo prosty, wręcz minimalistyczny, przejrzysty interfejs(jedynie 5 kolorów)
 - Dokumentacja to zbiór linków prowadzących do coraz bardziej szczegółówych treści. Ma strukturę drzewka kategorii – od ogółu przechodzi się do szczegółu.
 - Po najechaniu kursorem na tytuł wyświetla się krótkie podsumowanie zawartości.
