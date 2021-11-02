@@ -27,7 +27,7 @@ Dokumentacja jest dostępna na stronie [Atlassian Support](https://support.atlas
 
 ### Zalety
 - W centralnym miejscu na stronie jest wyszukiwarka, która poprawnie zwraca wyszukiwane tresci np. po słowie kluczowym i wyświetla się w nowym oknie. 
-[wyszukiwarka](Jira_screen4.png)
+![wyszukiwarka](Jira_screen4.png)
 - Bardzo prosty, wręcz minimalistyczny, przejrzysty interfejs(jedynie 5 kolorów)
 - Dokumentacja to zbiór linków prowadzących do coraz bardziej szczegółówych treści. Ma strukturę drzewka kategorii – od ogółu przechodzi się do szczegółu.
 - Po najechaniu kursorem na tytuł wyświetla się krótkie podsumowanie zawartości.
