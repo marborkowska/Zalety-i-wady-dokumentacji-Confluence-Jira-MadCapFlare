@@ -47,6 +47,8 @@ Dokumentacja jest dostępna na stronie [Atlassian Support](https://support.atlas
 ![komunikat](Jira_screen5.png)
 - Prosty język (simplified English) – strona czynna czasowników, krótkie zdania, forma bezpośrednia „you”
 - Można podejrzeć poprzednią wersję dokumentacji danej funkcjonalności, jeśli zostały w niej wprowadzone zmiany.
+  
+![komunikat](Jira_screen11.png)
 - U góry każdej strony jest ścieżka kategorii.
 
 ![ścieżka](Jira_screen9.png)
