@@ -57,6 +57,14 @@ Dokumentacja jest dostępna na stronie [Atlassian Support](https://support.atlas
 ### Wady
 
 ## Podsumowanie
+Na podstawie wskazanej powyżej analizy moim zdaniem najwięcej dobrych stron ma dokumentacja ...., z kolei treści aplikacji .... wymagają niewielkiej korekty.
+
+| Aspekt           | Confluence       | Jira             | Flare            |
+| ---------------- | ---------------- | ---------------- | ---------------- |
+| Dostępność   | Content cell 2   | +++   | ++  |
+| Czytelność | Content column 2 | Content column 3 | Content column 4 |
++++ - 
+++ - 
 
 <!-- Example of another paragraph -->
 
