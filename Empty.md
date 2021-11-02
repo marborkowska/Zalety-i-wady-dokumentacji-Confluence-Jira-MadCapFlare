@@ -51,7 +51,10 @@ Dokumentacja jest dostępna na stronie [Atlassian Support](https://support.atlas
 - Po lewej stronie można kliknąć na ![trzy kreski](Jira_screen3.png) i wyświetli się menu kontekstowe.
 - Na każdej stronie jest informacja o tym, kiedy ją ostatnio aktualizowano.
 - W poszczególnych rozdziałach po prawej stronie są linki do powiązanych treści.
-- Pod koniec każdej sekcji jest pytanie o przydatność treści dla użytkownika i miejsce na udzielenie feedbacku, co wpisuje się w aktualny trend w komunikacji technicznej. Jest również link do forum Społeczności, na którym można zadać dodatkowe pytania, rozpocząć dyskusję lub poczytać artykuły.
+- Pod koniec każdej sekcji jest pytanie o przydatność treści dla użytkownika i miejsce na udzielenie feedbacku, co wpisuje się w aktualny trend w komunikacji technicznej.
+
+![feedback](Jira_screen8.png)
+- Jest również link do forum Społeczności, na którym można zadać dodatkowe pytania, rozpocząć dyskusję lub poczytać artykuły.
 
 ### Wady
 - Dla jednych prosty interfejs to zaleta, ale dla innych może być wadą. Brak elementów graficznych na stronie, np. podziału sekcji na kolorowe kafelki (klikalne).
