@@ -65,6 +65,8 @@ Dokumentacja jest dostępna na stronie [Atlassian Support](https://support.atlas
 ![ścieżka](Jira_screen12.png)
 - W poszczególnych rozdziałach po prawej stronie są linki do powiązanych treści.
 
+![more](Jira_screen22.png)
+
 - Pod koniec każdej sekcji jest pytanie o przydatność treści dla użytkownika i miejsce na udzielenie feedbacku, co wpisuje się w aktualny trend w komunikacji technicznej.
 
 ![feedback](Jira_screen8.png)
