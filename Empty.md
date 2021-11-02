@@ -70,7 +70,9 @@ Dokumentacja jest dostępna na stronie [Atlassian Support](https://support.atlas
 - Pod koniec każdej sekcji jest pytanie o przydatność treści dla użytkownika i miejsce na udzielenie feedbacku, co wpisuje się w aktualny trend w komunikacji technicznej.
 
 ![feedback](Jira_screen8.png)
-- Jest również link do forum Społeczności, na którym można zadać dodatkowe pytania, rozpocząć dyskusję lub poczytać artykuły.
+- Jest również link do forum Społeczności, na którym można zadać dodatkowe pytania, rozpocząć dyskusję lub poczytać artykuły. 
+
+![more](Jira_screen33.png)
 
 ### Wady
 - Dla jednych prosty interfejs to zaleta, ale dla innych może być wadą. Brak elementów graficznych na stronie, np. podziału sekcji na kolorowe kafelki (klikalne).
