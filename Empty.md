@@ -18,7 +18,8 @@ Celem tego opracowania jest zaprezentowanie dobrych i słabych stron dokumentacj
  
 
 <!-- Example of paragraph of text -->
-## Dokumentacja Confluence
+## Dokumentacja Confluence 
+Dokumentacja jest dostępna na stronie [Atlassian Support](https://support.atlassian.com/confluence-cloud/resources/).
 ### Zalety
 ### Wady
 
