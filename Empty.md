@@ -27,18 +27,23 @@ Dokumentacja jest dostępna na stronie [Atlassian Support](https://support.atlas
 
 ### Zalety
 - W centralnym miejscu na stronie jest wyszukiwarka, która poprawnie zwraca wyszukiwane tresci np. po słowie kluczowym i wyświetla się w nowym oknie. 
+
 ![wyszukiwarka](Jira_screen4.png)
 - Bardzo prosty, wręcz minimalistyczny, przejrzysty interfejs (jedynie 5 kolorów)
 - Dokumentacja to zbiór linków prowadzących do coraz bardziej szczegółówych treści. Ma strukturę drzewka kategorii – od ogółu przechodzi się do szczegółu.
+  
 ![układ](Jira_screen.png)
 - Po najechaniu kursorem na tytuł wyświetla się krótkie podsumowanie zawartości.
+  
 ![podsumowanie](Jira_screen7.png) 
 - Wszystkie treści są zebrane w zaledwie 7 głównych sekcji, co sprawia wrażenie braku przytłoczenia nadmiarem informacji. 
 - Nagłówki są napisane większą czcionką, a pod spodem jest krótka informacja na temat zawartości sekcji, co zapewnia większą czytelność i szybsze dotarcie do poszukiwanych treści.
 - Na głównym ekranie w każdej sekcji znajduje się tylko 5 linków. Resztę można podejrzeć po kliknięciu w Show more, co znów sprawia, że nie jest wyświetlanych za dużo informacji na raz.
 - Czytelna kategoryzacja treści – stosowane są listy numerowane, wypunktowane, krótkie akapity. Treści z aplikacji są **wytłuszczone** lub napisane *kursywą*. Stosowane są screeny i tabelki z elementami graficznymi.
+  
 ![tłuste](Jira_screen6.png)
 - Stosowane są 3 rodzaje wiadomości kontekstowych, zwracających szczególną uwagę użytkownika na pewne aspekty funkcjonalności (w celu informacyjnym, ostrzegawczym i uszczegóławiającym). 
+
 ![komunikat](Jira_screen5.png)
 - Prosty język (simplified English) – strona czynna czasowników, krótkie zdania, forma bezpośrednia „you”
 - Można podejrzeć poprzednią wersję dokumentacji danej funkcjonalności, jeśli zostały w niej wprowadzone zmiany.
