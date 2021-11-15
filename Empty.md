@@ -27,7 +27,7 @@ Dokumentacja systemu Jira jest dostępna na [stronie](https://support.atlassian.
 ### Zalety
 #### Dostępność
 - Dokumentacja jest łatwo dostępna ze strony głównej Atlassian. Użytkownik może do niej łatwo trafić.
-- Spełnia ona cechy dokumentacji łatwo dostępnej dla użytkowników o specjalnych potrzebach zgodnie ze wskazówkami WCAG (tj..
+- Używany jest prosty język (simplified English), który ma być zrozumiały dla każdego: strona czynna czasowników, krótkie zdania, forma bezpośrednia „you”.
   
 #### Struktura
 - W centralnym miejscu na stronie jest wyszukiwarka, która poprawnie zwraca wyszukiwane treści np. po słowie kluczowym a wyniki wyszukiwania wyświetlają się w nowym oknie.
@@ -47,9 +47,6 @@ Dokumentacja systemu Jira jest dostępna na [stronie](https://support.atlassian.
 ![tłuste](Jira_screen6.png)
 - Stosowane są 3 rodzaje wiadomości kontekstowych, zwracających szczególną uwagę użytkownika na pewne aspekty funkcjonalności (w celu informacyjnym, ostrzegawczym i uszczegóławiającym).
  ![komunikat](Jira_screen5.png)
-
-#### Język
-- Stosowany jest prosty język (simplified English), który ma być zrozumiały dla każdego: strona czynna czasowników, krótkie zdania, forma bezpośrednia „you”
 
 #### Aktualizacje
 - Można podejrzeć poprzednią wersję dokumentacji danej funkcjonalności, jeśli zostały w niej wprowadzone zmiany.
@@ -77,22 +74,40 @@ Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/su
 
 ### Zalety
 #### Dostępność
+#### Struktura
+#### Interfejs
+#### Aktualizacje
+#### Informacje zwrotne
+
 ### Wady
-- Dokumentacja jest dostępna wyłącznie w języku angielskim. Nie zauważyłam, by było dostępne tłumaczenie na inne języki lub by była możliwość tłumaczenia maszynowego poprzez wbudowany silnik.
-- Brak informacji na stronie głównej i podstronach o tym, kiedy je ostatnio aktualizowano.
-- Brak możliwości wyrażenia feedbacku o treściach
-- Brak napisów na filmikach; ponadto lektor mówi bardzo szybko, co może utrudnić zrozumienie treści
+#### Dostępność
+- Dokumentacja jest dostępna wyłącznie w języku angielskim. Nie zauważyłam, by było dostępne tłumaczenie na inne języki lub by była możliwość tłumaczenia maszynowego poprzez wbudowany silnik.- Brak napisów na filmikach; ponadto lektor mówi bardzo szybko, co może utrudnić zrozumienie treści.
+#### Struktura
 - Wyniki wyszukiwania otwierają się w tym samym oknie – lepszą funkcjonalnością jest ich otwieranie w osobnym oknie.
+#### Interfejs
 - W niektórych rozdziałach brakuje przestrzeni w tekście, przez co trudniej dotrzeć do tego, czego się poszukuje. Te bloki tekstu powodują, ze trzeba je przeczytać w całości, a nie wystarczy jedynie przejrzeć.
+#### Aktualizacje
+- Brak informacji na stronie głównej i podstronach o tym, kiedy je ostatnio aktualizowano.
+#### Informacje zwrotne
+- Brak możliwości wyrażenia feedbacku o treściach
+
+
+
 
 
 ## Podsumowanie
-Na podstawie wskazanej powyżej analizy moim zdaniem najwięcej dobrych stron ma dokumentacja ...., z kolei treści aplikacji .... wymagają niewielkiej korekty.
+Na podstawie wskazanej powyżej analizy chciałabym zaprezentować ocenę własną głównych cech dokumentacji systemów Jira/Confluence i Flare.
 
-| Kategoria           | Dostępność       | Struktura          | Interfejs         | Język          | Aktualizacje         | Feedback         | Multimedia        |
-| ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | 
+| Kategoria           | Dostępność       | Struktura          | Interfejs         |  Aktualizacje         | Feedback         | 
+| ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |  
 | Jira/Confluence   | Content cell 2   | +++   | Content cell 2   | Content cell 2   | Content cell 2   | Content cell 2   | Content cell 2   |
-| Flare  | Content column 2 | Content column 3 | Content column 3 | Content column 3 | Content column 3 | Content column 3 | Content column 3 | 
+| Flare  | Content column 2 | Content column 3 | Content column 3 | Content column 3 | Content column 3 | 
+
++++ - bardzo dobrze rozwinięte 
+ 
+ ++ - wymaga niewielkiej poprawy 
+
+-- brak
 
 
 
