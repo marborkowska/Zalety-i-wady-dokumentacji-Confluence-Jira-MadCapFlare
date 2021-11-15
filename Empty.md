@@ -39,7 +39,7 @@ Dokumentacja systemu Jira jest dostępna na [stronie](https://support.atlassian.
 - Po lewej stronie można kliknąć na ![trzy kreski](Jira_screen3.png) i wyświetli się menu kontekstowe. 
 - W poszczególnych rozdziałach po prawej stronie są linki do powiązanych treści.
 
-#### Design
+#### Interfejs
 - Bardzo prosty, wręcz minimalistyczny, przejrzysty i spójny interfejs (jedynie kilka kolorów na białym tle)
 - Nagłówki są napisane większą czcionką, a pod spodem jest krótka informacja na temat zawartości sekcji, co zapewnia większą czytelność i szybsze dotarcie do poszukiwanych treści.
 - Na głównym ekranie w każdej sekcji znajduje się tylko 5 linków. Resztę można podejrzeć po kliknięciu w Show more, co znów sprawia, że nie jest wyświetlanych za dużo informacji na raz.
@@ -74,17 +74,26 @@ Dokumentacja systemu Jira jest dostępna na [stronie](https://support.atlassian.
 
 ## Dokumentacja Flare
 Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/support/) i jest bardzo rozbudowana. Do analizy wykorzystałam sekcję [Online Help](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Home.htm).
- 
+
 ### Zalety
+#### Dostępność
 ### Wady
+- Dokumentacja jest dostępna wyłącznie w języku angielskim. Nie zauważyłam, by było dostępne tłumaczenie na inne języki lub by była możliwość tłumaczenia maszynowego poprzez wbudowany silnik.
+- Brak informacji na stronie głównej i podstronach o tym, kiedy je ostatnio aktualizowano.
+- Brak możliwości wyrażenia feedbacku o treściach
+- Brak napisów na filmikach; ponadto lektor mówi bardzo szybko, co może utrudnić zrozumienie treści
+- Wyniki wyszukiwania otwierają się w tym samym oknie – lepszą funkcjonalnością jest ich otwieranie w osobnym oknie.
+- W niektórych rozdziałach brakuje przestrzeni w tekście, przez co trudniej dotrzeć do tego, czego się poszukuje. Te bloki tekstu powodują, ze trzeba je przeczytać w całości, a nie wystarczy jedynie przejrzeć.
+
 
 ## Podsumowanie
 Na podstawie wskazanej powyżej analizy moim zdaniem najwięcej dobrych stron ma dokumentacja ...., z kolei treści aplikacji .... wymagają niewielkiej korekty.
 
-| Aspekt           | Confluence       | Jira             | Flare            |
-| ---------------- | ---------------- | ---------------- | ---------------- |
-| Dostępność   | Content cell 2   | +++   | ++  |
-| Czytelność | Content column 2 | Content column 3 | Content column 4 | 
+| Kategoria           | Dostępność       | Struktura          | Interfejs         | Język          | Aktualizacje         | Feedback         | Multimedia        |
+| ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | 
+| Jira/Confluence   | Content cell 2   | +++   | Content cell 2   | Content cell 2   | Content cell 2   | Content cell 2   | Content cell 2   |
+| Flare  | Content column 2 | Content column 3 | Content column 3 | Content column 3 | Content column 3 | Content column 3 | Content column 3 | 
+
 
 
 
