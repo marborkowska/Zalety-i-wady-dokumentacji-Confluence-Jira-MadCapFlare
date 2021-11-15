@@ -32,7 +32,8 @@ Dokumentacja systemu Jira jest dostępna na [stronie](https://support.atlassian.
 #### Struktura
 - W centralnym miejscu na stronie jest wyszukiwarka, która poprawnie zwraca wyszukiwane treści np. po słowie kluczowym a wyniki wyszukiwania wyświetlają się w nowym oknie.
 - Dokumentacja to zbiór linków prowadzących do coraz bardziej szczegółówych treści. Ma strukturę drzewka – od ogółu przechodzi się do szczegółu.
-- Po najechaniu kursorem na tytuł wyświetla się krótkie podsumowanie zawartości.
+- Po najechaniu kursorem na tytuł wyświetla się krótkie podsumowanie zawartości. 
+  
 ![podsumowanie](Jira_screen7.png) 
 - Wszystkie treści są zebrane w zaledwie 7 głównych sekcji, co sprawia wrażenie braku przytłoczenia nadmiarem informacji. 
 - U góry każdej strony jest ścieżka kategorii.
@@ -44,18 +45,23 @@ Dokumentacja systemu Jira jest dostępna na [stronie](https://support.atlassian.
 - Nagłówki są napisane większą czcionką, a pod spodem jest krótka informacja na temat zawartości sekcji, co zapewnia większą czytelność i szybsze dotarcie do poszukiwanych treści.
 - Na głównym ekranie w każdej sekcji znajduje się tylko 5 linków. Resztę można podejrzeć po kliknięciu w Show more, co znów sprawia, że nie jest wyświetlanych za dużo informacji na raz.
 - Czytelna kategoryzacja treści – stosowane są listy numerowane, wypunktowane, krótkie akapity. Treści z aplikacji są **wytłuszczone** lub napisane *kursywą*. Stosowane są screeny, tabelki z elementami graficznymi. 
+   
 ![tłuste](Jira_screen6.png)
-- Stosowane są 3 rodzaje wiadomości kontekstowych, zwracających szczególną uwagę użytkownika na pewne aspekty funkcjonalności (w celu informacyjnym, ostrzegawczym i uszczegóławiającym).
+- Stosowane są 3 rodzaje wiadomości kontekstowych, zwracających szczególną uwagę użytkownika na pewne aspekty funkcjonalności (w celu informacyjnym, ostrzegawczym i uszczegóławiającym). 
+  
  ![komunikat](Jira_screen5.png)
 
 #### Aktualizacje
-- Można podejrzeć poprzednią wersję dokumentacji danej funkcjonalności, jeśli zostały w niej wprowadzone zmiany.
+- Można podejrzeć poprzednią wersję dokumentacji danej funkcjonalności, jeśli zostały w niej wprowadzone zmiany. 
+  
 ![komunikat](Jira_screen11.png)
-- Na każdej stronie jest informacja o tym, kiedy ją ostatnio aktualizowano.
+- Na każdej stronie jest informacja o tym, kiedy ją ostatnio aktualizowano. 
+  
 ![ścieżka](Jira_screen12.png)
 
 #### Informacje zwrotne
 - Pod koniec każdej sekcji jest pytanie o przydatność treści dla użytkownika i miejsce na udzielenie feedbacku. 
+  
 ![feedback](Jira_screen8.png)
 - Jest również link do forum Społeczności, na którym można zadać dodatkowe pytania lub rozpocząć dyskusję.
 
@@ -121,48 +127,18 @@ Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/su
 
 
 ## Podsumowanie
-Na podstawie wskazanej powyżej analizy chciałabym zaprezentować ocenę własną głównych cech dokumentacji systemów Jira/Confluence i Flare.
+Na podstawie wskazanej powyżej analizy chciałabym zaprezentować ocenę własną głównych cech dokumentacji systemów Jira/Confluence i Flare:
 
 | Kategoria           | Dostępność       | Struktura          | Interfejs         |  Aktualizacje         | Informacje zwrotne         | 
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |  
-| Jira/Confluence   | Content cell 2   | +++   | Content cell 2   | Content cell 2   | Content cell 2   | Content cell 2   | Content cell 2   |
-| Flare  | Content column 2 | Content column 3 | Content column 3 | Content column 3 | Content column 3 | 
+| Jira/Confluence   | o   | ooo   | ooo   | ooo   | ooo   | 
+| Flare  | ooo | ooo | oo | -- | -- | 
 
-+++ - bardzo dobrze rozwinięte 
+ooo - bardzo dobrze rozwinięte 
 
-++ - wymaga niewielkiej poprawy 
+oo - wymaga niewielkiej poprawy 
+
+o - sugerowane jest wprowadzenie zmian
 
 -- brak
 
-
-
-
-<!-- Example of another paragraph -->
-
-<!-- Example for Bold -->
-
-<!-- Example for Italic  -->
-
-<!-- Example for Links -->
-
-<!-- Example for Images -->
-
-<!-- Example for linking to another file-->
-
-<!-- Example for Headers -->
-
-<!-- Just text with equation -->
-
-<!-- Example for inline code -->
-
-<!-- A block of code -->
-
-<!-- Example for Quote -->
-
-<!-- Example for Bullet List -->
-
-<!-- Example for Numbered List -->
-
-<!-- Example for Tables -->
-
-<!-- Paragraph after table -->
