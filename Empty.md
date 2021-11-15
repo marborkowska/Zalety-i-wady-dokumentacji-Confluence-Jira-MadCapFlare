@@ -2,15 +2,15 @@
 
 <!-- Example for title -->
 # Zalety i wady dokumentacji Confluence/Jira/Flare
-Celem tego opracowania jest zaprezentowanie dobrych i słabych stron dokumentacji wskazanych powyżej narzędzi.
+Celem tego opracowania jest zaprezentowanie mocnych i słabych stron dokumentacji wskazanych powyżej narzędzi.
+
+Pogrupowałam cechy poszczególnych dokumentacji według wybranych kategorii, aby łatwiej było je ze sobą porównać.
+
 <!-- Here comes the TOC -->  
 
-  - [Dokumentacja Confluence](#dokumentacja-confluence)
+  - [Dokumentacja Jira i Confluence](#dokumentacja-confluence)
     - [Zalety](#zalety)
     - [Wady](#wady)
-  - [Dokumentacja Jira](#dokumentacja-jira)
-    - [Zalety](#zalety-1)
-    - [Wady](#wady-1)
   - [Dokumentacja Flare](#dokumentacja-flare)
     - [Zalety](#zalety-2)
     - [Wady](#wady-2)
@@ -18,13 +18,11 @@ Celem tego opracowania jest zaprezentowanie dobrych i słabych stron dokumentacj
  
 
 <!-- Example of paragraph of text -->
-## Dokumentacja Confluence 
-Dokumentacja jest dostępna na stronie [Atlassian Support](https://support.atlassian.com/confluence-cloud/resources/).
-### Zalety
-### Wady
 
-## Dokumentacja Jira 
-Dokumentacja jest dostępna na stronie [Atlassian Support](https://support.atlassian.com/jira-software-cloud/resources/). W tej analizie ograniczę się wyłącznie do produktu Jira Software Cloud, mimo iż znalazłam jeszcze inne produkty powiązane z Jirą, np. Jira Software Management.
+## Dokumentacja Jira i Confluence
+Postanowiłam poddać wspólnej analizie dokumentację Jiry i Confluence, gdyż zostały one opracowane w niemal identyczny sposób. Obie znajdują się na tej samej platformie w dziale Atlassian Support.
+
+Dokumentacja Jiry jest dostępna na [stronie](https://support.atlassian.com/jira-software-cloud/resources/) a Confluence na pod tym [linkiem](https://support.atlassian.com/confluence-cloud/), obie w dziale Documentation.
 
 ### Zalety
 - W centralnym miejscu na stronie jest wyszukiwarka, która poprawnie zwraca wyszukiwane tresci np. po słowie kluczowym i wyświetla się w nowym oknie. 
