@@ -61,12 +61,18 @@ Dokumentacja systemu Jira jest dostępna na [stronie](https://support.atlassian.
 
 
 ### Wady
-- Dla jednych prosty interfejs to zaleta, ale dla innych może być wadą. Może warto by było wprowadzić więcej elementów graficznych na stronę, np. podział sekcji na kolorowe kafelki (klikalne). Co prawda pojawia się 9 bloków tematycznych ale dopiero po kliknięciu na Documentation (w górnym menu).
-- Stronę startową trzeba dość sporo scrollować, aby zobaczyć, co znajduje się na dole. Można by było skondensować treści, by się wyświetlały bez konieczności scrollowania (np. ikonki). Byłaby to taka strona wprowadzająca do bardziej szczegółowych treści. 
-- Podstrony również wymagają scrollowania. Jest co prawda klikalny spis treści, ale znajduje się on po prawej stronie, poniżej powiązanych treści i nie rzuca się w oczy. Powinien on być umiejscowiony w bardziej widocznym miejscu. 
+#### Dostępność
 - Dokumentacja jest dostępna wyłącznie w języku angielskim. Nie zauważyłam, by było dostępne tłumaczenie na inne języki lub by była możliwość tłumaczenia maszynowego poprzez wbudowany silnik.
 - Brak materiałów interaktywnych, jak choćby krótkich filmików wideo.
 - Brak możliwości pobrania treści w formacie pdf czy wydruku bezpośrednio ze strony.
+#### Struktura
+- Stronę startową trzeba dość sporo scrollować, aby zobaczyć, co znajduje się na dole. Można by było skondensować treści, by się wyświetlały bez konieczności scrollowania (np. ikonki). Byłaby to taka strona wprowadzająca do bardziej szczegółowych treści. 
+- Podstrony również wymagają scrollowania. Jest co prawda klikalny spis treści, ale znajduje się on po prawej stronie, poniżej powiązanych treści i nie rzuca się w oczy. Powinien on być umiejscowiony w bardziej widocznym miejscu.
+#### Interfejs
+- Dla jednych prosty interfejs to zaleta, ale dla innych może być wadą. Może warto by było wprowadzić więcej elementów graficznych na stronę, np. podział sekcji na kolorowe kafelki (klikalne). Co prawda pojawia się 9 bloków tematycznych ale dopiero po kliknięciu na Documentation (w górnym menu).
+#### Aktualizacje
+#### Informacje zwrotne
+
 
 
 ## Dokumentacja Flare
@@ -98,14 +104,14 @@ Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/su
 ## Podsumowanie
 Na podstawie wskazanej powyżej analizy chciałabym zaprezentować ocenę własną głównych cech dokumentacji systemów Jira/Confluence i Flare.
 
-| Kategoria           | Dostępność       | Struktura          | Interfejs         |  Aktualizacje         | Feedback         | 
+| Kategoria           | Dostępność       | Struktura          | Interfejs         |  Aktualizacje         | Informacje zwrotne         | 
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |  
 | Jira/Confluence   | Content cell 2   | +++   | Content cell 2   | Content cell 2   | Content cell 2   | Content cell 2   | Content cell 2   |
 | Flare  | Content column 2 | Content column 3 | Content column 3 | Content column 3 | Content column 3 | 
 
 +++ - bardzo dobrze rozwinięte 
- 
- ++ - wymaga niewielkiej poprawy 
+
+++ - wymaga niewielkiej poprawy 
 
 -- brak
 
