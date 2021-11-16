@@ -22,12 +22,12 @@ Pogrupowałam cechy poszczególnych dokumentacji według wybranych kategorii, ab
 ## Dokumentacja Jira i Confluence
 Postanowiłam poddać wspólnej analizie dokumentacje systemów Jira i Confluence, gdyż zostały one opracowane w niemal identyczny sposób. Obie znajdują się na tej samej platformie w dziale Atlassian Support.
 
-Dokumentacja systemu Jira jest dostępna na [stronie](https://support.atlassian.com/jira-software-cloud/resources/) a Confluence na pod tym [linkiem](https://support.atlassian.com/confluence-cloud/), obie w sekcji Documentation.
+Dokumentacja systemu Jira jest dostępna na [stronie](https://support.atlassian.com/jira-software-cloud/resources/) a Confluence na pod tym [linkiem](https://support.atlassian.com/confluence-cloud/), obie w sekcji *Documentation*.
 
 ### Zalety
 #### Dostępność
 - Dokumentacja jest łatwo dostępna ze strony głównej Atlassian. Użytkownik może do niej łatwo trafić.
-- Jest ona napisana prostym język (simplified English), który ma być zrozumiały dla każdego: strona czynna czasowników, krótkie zdania, forma bezpośrednia „you”.
+- Jest ona napisana prostym język (*Simplified Technical English*), który ma być zrozumiały dla każdego: strona czynna czasowników, krótkie zdania, forma bezpośrednia „you”.
   
 #### Struktura
 - W centralnym miejscu na stronie jest wyszukiwarka, która poprawnie zwraca wyszukiwane treści np. po słowie kluczowym a wyniki wyszukiwania wyświetlają się w nowym oknie.
@@ -78,9 +78,9 @@ Dokumentacja systemu Jira jest dostępna na [stronie](https://support.atlassian.
 - Stronę startową trzeba dość sporo scrollować, aby zobaczyć, co znajduje się na dole (dotyczy to zwłaszcza dokumentacji systemu Jira). Można by było skondensować treści, by się wyświetlały bez konieczności scrollowania (np. poprzez prezentację w formie ikonek lub podział na mniejsze sekcje). Byłaby to taka strona wprowadzająca do bardziej szczegółowych treści. 
 - Podstrony również wymagają scrollowania. Jest co prawda klikalny spis treści, ale znajduje się on po prawej stronie, poniżej powiązanych treści i nie rzuca się w oczy. Powinien on być umiejscowiony w bardziej widocznym miejscu.
 #### Interfejs
-- Dla jednych prosty interfejs to zaleta, ale dla innych może być wadą. Może warto by było wprowadzić więcej elementów graficznych na stronie, np. podział sekcji na kolorowe kafelki (klikalne) czy więcej ikonek. Co prawda pojawia się 9 bloków tematycznych ale dopiero po kliknięciu na Documentation (w górnym menu). Może to nie być zbyt intuicyjne dla użytkownika.
+- Dla jednych prosty interfejs to zaleta, ale dla innych może być wadą. Może warto by było wprowadzić więcej elementów graficznych na stronie, np. podział sekcji na kolorowe kafelki (klikalne) czy więcej ikonek. Co prawda pojawia się 9 bloków tematycznych ale dopiero po kliknięciu na *Documentation* (w górnym menu). Może to nie być zbyt intuicyjne dla użytkownika.
 #### Aktualizacje
-- Nie znalazłam nigdzie osobnej sekcji What's new czy Release notes, czyli podsumowania ostatnio wdrożonych zmian i nowości.
+- Nie znalazłam nigdzie osobnej sekcji *What's new* czy *Release notes*, czyli podsumowania ostatnio wdrożonych zmian i nowości.
 
 
 
@@ -95,8 +95,8 @@ Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/su
 
 ![Ikonki](Madcap_ikonki.png)
 
-- Używany jest prosty język (simplified English) zrozumiały dla każdego: strona czynna czasowników, krótkie zdania, forma bezpośrednia „you”.
-- Łatwy dostęp do dodatkowych informacji o oprogramowaniu: bloga, webinarów, społeczności,  Troubleshooting.
+- Używany jest prosty język (*Simplified Technical English*) zrozumiały dla każdego: strona czynna czasowników, krótkie zdania, forma bezpośrednia „you”.
+- Łatwy dostęp do dodatkowych informacji o oprogramowaniu: bloga, webinarów, społeczności,  *Troubleshooting*.
 #### Struktura
 - Duża wyszukiwarka jako kluczowa funkcjonalność na stronie; mała wyszukiwarka jest dostępna na każdej podstronie. Poprawnie zwracaja wyniki wyszukiwania, np. po słowie kluczowym, ale w tym samym oknie. Ciekawe jest to, że jeśli do danego słowa jest dostepny filmik, to otwiera się on automatycznie wraz z wynikami wyszukiwania.
 - Dobrze zbudowana strona startowa produktu MadCap Flare – zaledwie kilka rozdziałów, zwrócenie uwagi na podstawy, filmiki instruktażowe
