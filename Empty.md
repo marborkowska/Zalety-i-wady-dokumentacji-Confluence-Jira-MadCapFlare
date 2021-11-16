@@ -98,20 +98,25 @@ Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/su
 - Używany jest prosty język (simplified English) zrozumiały dla każdego: strona czynna czasowników, krótkie zdania, forma bezpośrednia „you”.
 - Łatwy dostęp do dodatkowych informacji o oprogramowaniu: bloga, webinarów, społeczności,  Troubleshooting.
 #### Struktura
-- Bardzo fajnie zaprojektowana strona główna działu Support z kilkoma kolorowymi kafelkami prowadzącymi bezpośrednio do odpowiednich sekcji.
 - Duża wyszukiwarka jako kluczowa funkcjonalność na stronie; mała wyszukiwarka jest dostępna na każdej podstronie. Poprawnie zwracaja wyniki wyszukiwania, np. po słowie kluczowym, ale w tym samym oknie. Ciekawe jest to, że jeśli do danego słowa jest dostepny filmik, to otwiera się on automatycznie wraz z wynikami wyszukiwania.
 - Dobrze zbudowana strona startowa produktu MadCap Flare – zaledwie kilka rozdziałów, zwrócenie uwagi na podstawy, filmiki instruktażowe
 - Rozwijany panel boczny: spis treści zawierający opis poszczególnych funkcjonalności pogrupowanych w kategorie - struktura drzewka.
-- Występują linki prowadzące do materiałów referencyjnych.
-- Istnieje możliwość powrotu na górę strony.
+
+![Strona](Strona.png)
+
+- Zamieszczone są linki prowadzące do materiałów referencyjnych.
+- Istnieje możliwość łatwego powrotu na górę strony.
 - W przypadku bardziej rozbudowanych rozdziałów, jest specjalna strona startowa z odnośnikami do bardziej szczegółowych treści.
 
 #### Interfejs
-- duże litery – przystosowanie do osób z problemami z widzeniem, nagłówki, czytelna czcionka (pogrubienie tak, kursywa – nie)
-- screeny – możliwość ich powiększenia
+- Teksty napisane są dość dużymi literami i czytelną czcionką, co jest korzystne dla osób mających problemy z widzeniem. Treści mają wyraźne nagłówki. Stosowane jest również **pogrubienie**.
+- Przy opisie niektórych funkcjonalności zamieszczono screeny z możliwością ich powiększenia.
+
+![Zoom](Madcap_zoom.png)
+
 - ascetyczny design, niewiele kolorów
 - istotne treści i przykłady są wyróżnione w formie kolorowego obramowania
-- informacje dla specjalnych grup są specjalnie oznaczone, np. Information for developers (na czerwonym tle)
+- Informacje dla specjalnych grup są specjalnie oznaczone, np. Information for developers (na czerwonym tle).
 
 #### Aktualizacje
 - What’s new rozdział
