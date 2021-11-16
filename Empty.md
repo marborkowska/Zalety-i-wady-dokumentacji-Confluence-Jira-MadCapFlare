@@ -119,7 +119,7 @@ Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/su
 ![Strona](Strona.png)
 
 - Zamieszczone są linki prowadzące do materiałów referencyjnych.
-- Istnieje możliwość łatwego powrotu na górę strony.
+- Istnieje możliwość łatwego powrotu na górę strony w przypadku bardziej rozbudowanych sekcji.
 - W przypadku bardziej rozbudowanych rozdziałów są specjalne strony startowe z odnośnikami do bardziej szczegółowych treści ([przykład](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Translation-Localization/Translation-Localization.htm)).
 - Nie ma konieczności długiego scrollowania stron; rozdziały są krótkie, a jeśli treści jest więcej, zamieszczone są linki prowadzące do bardziej szczegółowych opisów.
 
