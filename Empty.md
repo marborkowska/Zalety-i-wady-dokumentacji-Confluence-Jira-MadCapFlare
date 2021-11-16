@@ -111,7 +111,7 @@ Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/su
 - Łatwy dostęp do dodatkowych informacji o oprogramowaniu: bloga, webinarów, społeczności,  *Troubleshooting*.
 #### Struktura
 - Duża wyszukiwarka jako kluczowa funkcjonalność na stronie; mała wyszukiwarka jest dostępna na każdej podstronie. Poprawnie zwracaja wyniki wyszukiwania, np. po słowie kluczowym, ale w tym samym oknie. Ciekawe jest to, że jeśli do danego słowa jest dostepny filmik, to otwiera się on automatycznie wraz z wynikami wyszukiwania.
-- Dobrze zbudowana strona startowa produktu MadCap Flare – zaledwie kilka rozdziałów, zwrócenie uwagi na podstawy, filmiki instruktażowe
+- Dobrze zbudowana [strona startowa](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Home.htm) produktu MadCap Flare – zaledwie kilka rozdziałów, zwrócenie uwagi na podstawy, filmiki instruktażowe
 - Rozwijany panel boczny: spis treści zawierający opis poszczególnych funkcjonalności pogrupowanych w kategorie - struktura drzewka.
 
 ![Strona](Strona.png)
