@@ -132,7 +132,7 @@ Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/su
 - Informacje dla specjalnych grup są specjalnie oznaczone, np. *Information for developers* (na czerwonym tle).
 
 #### Aktualizacje
-- Na stronie startowej znajduje się sekcja [*What’s new*](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Whats-New/Whats-New.htm) przedstawiająca podsumowanie ostatnio wdrożonych zmian i nowości wraz z filmikiem.
+- Na stronie startowej znajduje się sekcja [What’s new](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Whats-New/Whats-New.htm) przedstawiająca podsumowanie ostatnio wdrożonych zmian i nowości wraz z filmikiem.
 
 ### Wady
 #### Dostępność
