@@ -80,7 +80,7 @@ Dokumentacja systemu Jira jest dostępna na [stronie](https://support.atlassian.
 #### Interfejs
 - Dla jednych prosty interfejs to zaleta, ale dla innych może być wadą. Może warto by było wprowadzić więcej elementów graficznych na stronie, np. podział sekcji na kolorowe kafelki (klikalne). Co prawda pojawia się 9 bloków tematycznych ale dopiero po kliknięciu na Documentation (w górnym menu). Może to nie być zbyt intuicyjne dla użytkownika.
 #### Aktualizacje
-- Nie znalazłam nigdzie osobnej sekcji What's new czy Release notes, czyli podsumowania ostatnio wdrożonych zmian.
+- Nie znalazłam nigdzie osobnej sekcji What's new czy Release notes, czyli podsumowania ostatnio wdrożonych zmian i nowości.
 
 
 
@@ -90,7 +90,7 @@ Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/su
 ### Zalety
 #### Dostępność
 - Dokumentacja jest łatwo dostępna ze strony głównej produktu.
-- Istnieje możliwość wydruku treści, ściągnięcia User Guide i Tutoriala w formie pliku pdf.
+- Istnieje możliwość wydruku treści czy zapisania *User Guide* i *Tutoriala* w formie pliku pdf.
 - Dostępne są treści video: krótkie instruktażowe filmiki bezpośrednio przy opisie danej fukncjonalności.
 
 ![Ikonki](Madcap_ikonki.png)
@@ -106,7 +106,7 @@ Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/su
 
 - Zamieszczone są linki prowadzące do materiałów referencyjnych.
 - Istnieje możliwość łatwego powrotu na górę strony.
-- W przypadku bardziej rozbudowanych rozdziałów, jest specjalna strona startowa z odnośnikami do bardziej szczegółowych treści.
+- W przypadku bardziej rozbudowanych rozdziałów są specjalne strony startowe z odnośnikami do bardziej szczegółowych treści.
 
 #### Interfejs
 - Teksty napisane są dość dużymi literami i czytelną czcionką, co jest korzystne dla osób mających problemy z widzeniem. Treści mają wyraźne nagłówki. Stosowane jest również **pogrubienie**.
@@ -114,17 +114,18 @@ Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/su
 
 ![Zoom](Madcap_zoom.png)
 
-- ascetyczny design, niewiele kolorów
-- istotne treści i przykłady są wyróżnione w formie kolorowego obramowania
-- Informacje dla specjalnych grup są specjalnie oznaczone, np. Information for developers (na czerwonym tle).
+- Design jest ascetyczny z niewielką liczbą kolorów, ale nie sprawia wrażenia smutnego.
+- Istotne treści i przykłady są wyróżnione w formie kolorowego obramowania.
+- Informacje dla specjalnych grup są specjalnie oznaczone, np. *Information for developers* (na czerwonym tle).
 
 #### Aktualizacje
-- What’s new rozdział
+- Na stronie startowej znajduje się sekcja *What’s new* przedstawiająca podsumowanie ostatnio wdrożonych zmian i nowości wraz z filmikiem.
 #### Informacje zwrotne
 
 ### Wady
 #### Dostępność
-- Dokumentacja jest dostępna wyłącznie w języku angielskim. Nie zauważyłam, by było dostępne tłumaczenie na inne języki lub by była możliwość tłumaczenia maszynowego poprzez wbudowany silnik.- Brak napisów na filmikach; ponadto lektor mówi bardzo szybko, co może utrudnić użytkownikowi zrozumienie treści.
+- Dokumentacja jest dostępna wyłącznie w języku angielskim. Nie zauważyłam, by było dostępne tłumaczenie na inne języki lub by była możliwość tłumaczenia maszynowego poprzez wbudowany silnik. 
+- Brak napisów na filmikach; ponadto lektor mówi bardzo szybko, co może utrudnić użytkownikowi zrozumienie treści.
 #### Struktura
 - Wyniki wyszukiwania otwierają się w tym samym oknie. Lepszą funkcjonalnością jest ich otwieranie w osobnym oknie.
 #### Interfejs
@@ -132,7 +133,7 @@ Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/su
 #### Aktualizacje
 - Brak informacji na stronie głównej i podstronach o tym, kiedy je ostatnio aktualizowano.
 #### Informacje zwrotne
-- Brak możliwości wyrażenia feedbacku o treściach
+- Brak możliwości wyrażenia feedbacku o treściach zamieszczonych w dokumentacji.
 
 
 
@@ -143,8 +144,8 @@ Na podstawie wskazanej powyżej analizy chciałabym zaprezentować ocenę własn
 
 | Kategoria           | Dostępność       | Struktura          | Interfejs         |  Aktualizacje         | Informacje zwrotne         | 
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |  
-| Jira/Confluence   | o   | ooo   | ooo   | ooo   | ooo   | 
-| Flare  | ooo | ooo | oo | -- | -- | 
+| Jira/Confluence   | oo   | ooo   | ooo   | ooo   | ooo   | 
+| Flare  | ooo | ooo | oo | o | -- | 
 
 ooo - bardzo dobrze rozwinięte 
 
@@ -152,5 +153,5 @@ oo - wymaga niewielkiej poprawy
 
 o - sugerowane jest wprowadzenie zmian
 
--- brak
+-- brak funkcjonalności
 
