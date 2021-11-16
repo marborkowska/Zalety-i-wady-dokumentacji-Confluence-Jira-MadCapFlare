@@ -35,7 +35,7 @@ Pogrupowałam cechy poszczególnych dokumentacji według wybranych kategorii, ab
 ## Dokumentacja Jira i Confluence
 Postanowiłam poddać wspólnej analizie dokumentacje systemów Jira i Confluence, gdyż zostały one opracowane w niemal identyczny sposób. Obie znajdują się na tej samej platformie w dziale Atlassian Support.
 
-Dokumentacja systemu Jira jest dostępna na [stronie](https://support.atlassian.com/jira-software-cloud/resources/) a Confluence na pod tym [linkiem](https://support.atlassian.com/confluence-cloud/), obie w sekcji *Documentation*.
+Dokumentacja systemu Jira jest dostępna na tej [stronie](https://support.atlassian.com/jira-software-cloud/resources/) a Confluence na pod tym [linkiem](https://support.atlassian.com/confluence-cloud/resources), obie w sekcji *Documentation*.
 
 ### Zalety
 #### Dostępność
