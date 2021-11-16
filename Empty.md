@@ -89,18 +89,22 @@ Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/su
 
 ### Zalety
 #### Dostępność
-- możliwość wydruku, ściągnięcia User Guide i Tutoriala w formie pliku pdf – czytelne ikonki
-- dostępne są treści video – krótkie instruktażowe filmiki bezpośrednio przy opisie danej fukncjonalności
-- Prosty język (simplified English) – strona czynna czasowników, krótkie zdania, forma bezpośrednia „you”
-- Łatwy dostęp do dodatkowych informacji o oprogramowaniu: bloga, webinarów, społeczności,  Troubleshooting
+- Dokumentacja jest łatwo dostępna ze strony głównej produktu.
+- Istnieje możliwość wydruku treści, ściągnięcia User Guide i Tutoriala w formie pliku pdf.
+- Dostępne są treści video: krótkie instruktażowe filmiki bezpośrednio przy opisie danej fukncjonalności.
+
+![Ikonki](Madcap_ikonki.png)
+
+- Używany jest prosty język (simplified English) zrozumiały dla każdego: strona czynna czasowników, krótkie zdania, forma bezpośrednia „you”.
+- Łatwy dostęp do dodatkowych informacji o oprogramowaniu: bloga, webinarów, społeczności,  Troubleshooting.
 #### Struktura
-- Bardzo fajnie zaprojektowana strona startowa z kilkoma kolorowymi kafelkami prowadzącymi bezpośrednio do odpowiednich sekcji.
-- duża wyszukiwarka jako kluczowa funkcjonalność na stronie; mała wyszukiwarka jest dostępna na każdej podstronie. Poprawnie zwracaja wyniki wyszukiwania, np. po słowie kluczowym, ale w tym samym oknie. Ciekawe jest to, że jeśli do danego słowa jest dostepny filmik, to otwiera się on automatycznie wraz z wynikami wyszukiwania.
-- dobrze zbudowana strona startowa – zaledwie kilka rozdziałów, zwrócenie uwagi na podstawy,filmiki instruktażowe
-- rozwijany panel boczny- spis treści zawierający opis poszczególnych funkcjonalności pogrupowanych w kategorie - struktura drzewka
-- linki prowadzące do materiałów referencyjnych
-- możliwość powrotu na górę strony
-- w przypadku bardziej rozbudowanych rozdziałów, jest specjalna strona startowa z odnośnikami do bardziej szczegółowych treści
+- Bardzo fajnie zaprojektowana strona główna działu Support z kilkoma kolorowymi kafelkami prowadzącymi bezpośrednio do odpowiednich sekcji.
+- Duża wyszukiwarka jako kluczowa funkcjonalność na stronie; mała wyszukiwarka jest dostępna na każdej podstronie. Poprawnie zwracaja wyniki wyszukiwania, np. po słowie kluczowym, ale w tym samym oknie. Ciekawe jest to, że jeśli do danego słowa jest dostepny filmik, to otwiera się on automatycznie wraz z wynikami wyszukiwania.
+- Dobrze zbudowana strona startowa produktu MadCap Flare – zaledwie kilka rozdziałów, zwrócenie uwagi na podstawy, filmiki instruktażowe
+- Rozwijany panel boczny: spis treści zawierający opis poszczególnych funkcjonalności pogrupowanych w kategorie - struktura drzewka.
+- Występują linki prowadzące do materiałów referencyjnych.
+- Istnieje możliwość powrotu na górę strony.
+- W przypadku bardziej rozbudowanych rozdziałów, jest specjalna strona startowa z odnośnikami do bardziej szczegółowych treści.
 
 #### Interfejs
 - duże litery – przystosowanie do osób z problemami z widzeniem, nagłówki, czytelna czcionka (pogrubienie tak, kursywa – nie)
@@ -115,9 +119,9 @@ Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/su
 
 ### Wady
 #### Dostępność
-- Dokumentacja jest dostępna wyłącznie w języku angielskim. Nie zauważyłam, by było dostępne tłumaczenie na inne języki lub by była możliwość tłumaczenia maszynowego poprzez wbudowany silnik.- Brak napisów na filmikach; ponadto lektor mówi bardzo szybko, co może utrudnić zrozumienie treści.
+- Dokumentacja jest dostępna wyłącznie w języku angielskim. Nie zauważyłam, by było dostępne tłumaczenie na inne języki lub by była możliwość tłumaczenia maszynowego poprzez wbudowany silnik.- Brak napisów na filmikach; ponadto lektor mówi bardzo szybko, co może utrudnić użytkownikowi zrozumienie treści.
 #### Struktura
-- Wyniki wyszukiwania otwierają się w tym samym oknie – lepszą funkcjonalnością jest ich otwieranie w osobnym oknie.
+- Wyniki wyszukiwania otwierają się w tym samym oknie. Lepszą funkcjonalnością jest ich otwieranie w osobnym oknie.
 #### Interfejs
 - W niektórych rozdziałach brakuje przestrzeni w tekście, przez co trudniej dotrzeć do tego, czego się poszukuje. Te bloki tekstu powodują, ze trzeba je przeczytać w całości, a nie wystarczy jedynie przejrzeć.
 #### Aktualizacje
