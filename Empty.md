@@ -156,7 +156,7 @@ Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/su
 ## Podsumowanie
 Na podstawie wskazanej powyżej analizy chciałabym zaprezentować ocenę własną głównych cech dokumentacji systemów Jira/Confluence i MadCap Flare:
 
-| Kategoria           | Dostępność       | Struktura          | Interfejs         |  Aktualizacje         | Informacje zwrotne         | 
+| System/Kategoria           | Dostępność       | Struktura          | Interfejs         |  Aktualizacje         | Informacje zwrotne         | 
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |  
 | Jira/Confluence   | oo   | oo   | oo   | ooo   | ooo   | 
 | Flare  | ooo | ooo | oo | o | -- | 
