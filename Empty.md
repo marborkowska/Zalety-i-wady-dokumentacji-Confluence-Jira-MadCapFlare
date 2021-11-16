@@ -22,12 +22,12 @@ Pogrupowałam cechy poszczególnych dokumentacji według wybranych kategorii, ab
 ## Dokumentacja Jira i Confluence
 Postanowiłam poddać wspólnej analizie dokumentacje systemów Jira i Confluence, gdyż zostały one opracowane w niemal identyczny sposób. Obie znajdują się na tej samej platformie w dziale Atlassian Support.
 
-Dokumentacja systemu Jira jest dostępna na [stronie](https://support.atlassian.com/jira-software-cloud/resources/) a Confluence na pod tym [linkiem](https://support.atlassian.com/confluence-cloud/), obie w dziale Documentation.
+Dokumentacja systemu Jira jest dostępna na [stronie](https://support.atlassian.com/jira-software-cloud/resources/) a Confluence na pod tym [linkiem](https://support.atlassian.com/confluence-cloud/), obie w sekcji Documentation.
 
 ### Zalety
 #### Dostępność
 - Dokumentacja jest łatwo dostępna ze strony głównej Atlassian. Użytkownik może do niej łatwo trafić.
-- Używany jest prosty język (simplified English), który ma być zrozumiały dla każdego: strona czynna czasowników, krótkie zdania, forma bezpośrednia „you”.
+- Jest ona napisana prostym język (simplified English), który ma być zrozumiały dla każdego: strona czynna czasowników, krótkie zdania, forma bezpośrednia „you”.
   
 #### Struktura
 - W centralnym miejscu na stronie jest wyszukiwarka, która poprawnie zwraca wyszukiwane treści np. po słowie kluczowym a wyniki wyszukiwania wyświetlają się w nowym oknie.
@@ -35,7 +35,7 @@ Dokumentacja systemu Jira jest dostępna na [stronie](https://support.atlassian.
 - Po najechaniu kursorem na tytuł wyświetla się krótkie podsumowanie zawartości. 
   
 ![podsumowanie](Jira_screen7.png) 
-- Wszystkie treści są zebrane w zaledwie 7 głównych sekcji, co sprawia wrażenie braku przytłoczenia nadmiarem informacji. 
+- Wszystkie treści są zebrane w zaledwie kilka głównych sekcji, co sprawia, że użytkownik nie jest przytłoczony nadmiarem informacji. 
 - U góry każdej strony jest ścieżka kategorii.
 - Po lewej stronie można kliknąć na ![trzy kreski](Jira_screen3.png) i wyświetli się menu kontekstowe. 
 - W poszczególnych rozdziałach po prawej stronie są linki do powiązanych treści.
@@ -44,6 +44,9 @@ Dokumentacja systemu Jira jest dostępna na [stronie](https://support.atlassian.
 - Bardzo prosty, wręcz minimalistyczny, przejrzysty i spójny interfejs (jedynie kilka kolorów na białym tle)
 - Nagłówki są napisane większą czcionką, a pod spodem jest krótka informacja na temat zawartości sekcji, co zapewnia większą czytelność i szybsze dotarcie do poszukiwanych treści.
 - Na głównym ekranie w każdej sekcji znajduje się tylko 5 linków. Resztę można podejrzeć po kliknięciu w Show more, co znów sprawia, że nie jest wyświetlanych za dużo informacji na raz.
+
+![linki](Screen_linki.png)
+
 - Czytelna kategoryzacja treści – stosowane są listy numerowane, wypunktowane, krótkie akapity. Treści z aplikacji są **wytłuszczone** lub napisane *kursywą*. Stosowane są screeny, tabelki z elementami graficznymi. 
    
 ![tłuste](Jira_screen6.png)
@@ -72,12 +75,12 @@ Dokumentacja systemu Jira jest dostępna na [stronie](https://support.atlassian.
 - Brak materiałów interaktywnych, jak choćby krótkich filmików wideo.
 - Brak możliwości pobrania treści w formacie pdf czy wydruku bezpośrednio ze strony.
 #### Struktura
-- Stronę startową trzeba dość sporo scrollować, aby zobaczyć, co znajduje się na dole. Można by było skondensować treści, by się wyświetlały bez konieczności scrollowania (np. ikonki). Byłaby to taka strona wprowadzająca do bardziej szczegółowych treści. 
+- Stronę startową trzeba dość sporo scrollować, aby zobaczyć, co znajduje się na dole (dotyczy to zwłaszcza dokumentacji systemu Jira). Można by było skondensować treści, by się wyświetlały bez konieczności scrollowania (np. poprzez prezentację w formie ikonek). Byłaby to taka strona wprowadzająca do bardziej szczegółowych treści. 
 - Podstrony również wymagają scrollowania. Jest co prawda klikalny spis treści, ale znajduje się on po prawej stronie, poniżej powiązanych treści i nie rzuca się w oczy. Powinien on być umiejscowiony w bardziej widocznym miejscu.
 #### Interfejs
-- Dla jednych prosty interfejs to zaleta, ale dla innych może być wadą. Może warto by było wprowadzić więcej elementów graficznych na stronę, np. podział sekcji na kolorowe kafelki (klikalne). Co prawda pojawia się 9 bloków tematycznych ale dopiero po kliknięciu na Documentation (w górnym menu).
+- Dla jednych prosty interfejs to zaleta, ale dla innych może być wadą. Może warto by było wprowadzić więcej elementów graficznych na stronie, np. podział sekcji na kolorowe kafelki (klikalne). Co prawda pojawia się 9 bloków tematycznych ale dopiero po kliknięciu na Documentation (w górnym menu). Może to nie być zbyt intuicyjne dla użytkownika.
 #### Aktualizacje
-#### Informacje zwrotne
+- Nie znalazłam nigdzie osobnej sekcji What's new czy Release notes, czyli podsumowania ostatnio wdrożonych zmian.
 
 
 
