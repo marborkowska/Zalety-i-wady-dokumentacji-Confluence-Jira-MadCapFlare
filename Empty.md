@@ -56,9 +56,8 @@ Dokumentacja systemu Jira jest dostępna na [stronie](https://support.atlassian.
 #### Interfejs
 - Bardzo prosty, wręcz minimalistyczny, przejrzysty i spójny interfejs (jedynie kilka kolorów na białym tle)
 - Nagłówki są napisane większą czcionką, a pod spodem jest krótka informacja na temat zawartości sekcji, co zapewnia większą czytelność i szybsze dotarcie do poszukiwanych treści.
-- Na głównym ekranie w każdej sekcji znajduje się tylko 5 linków. Resztę można podejrzeć po kliknięciu w Show more, co znów sprawia, że nie jest wyświetlanych za dużo informacji na raz.
+- Na głównym ekranie w każdej sekcji znajduje się tylko po [5 linków](https://support.atlassian.com/jira-software-cloud/resources/)  Resztę można podejrzeć po kliknięciu w Show more, co znów sprawia, że nie jest wyświetlanych za dużo informacji na raz.
 
-![linki](Screen_linki.png)
 
 - Czytelna kategoryzacja treści – stosowane są listy numerowane, wypunktowane, krótkie akapity. Treści z aplikacji są **wytłuszczone** lub napisane *kursywą*. Stosowane są screeny, tabelki z elementami graficznymi. 
    
