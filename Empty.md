@@ -1,12 +1,8 @@
-<!-- Example for normal text -->
-
-<!-- Example for title -->
-# Zalety i wady dokumentacji Confluence/Jira/Flare
+# Zalety i wady dokumentacji Confluence/Jira/MadCap Flare
 Celem tego opracowania jest zaprezentowanie mocnych i słabych stron dokumentacji wskazanych powyżej narzędzi.
 
 Pogrupowałam cechy poszczególnych dokumentacji według wybranych kategorii, aby łatwiej było je ze sobą porównać.
-
-<!-- Here comes the TOC -->  
+ 
 
   - [Dokumentacja Jira i Confluence](#dokumentacja-confluence)
     - [Zalety](#zalety)
@@ -17,7 +13,6 @@ Pogrupowałam cechy poszczególnych dokumentacji według wybranych kategorii, ab
   - [Podsumowanie](#podsumowanie)
  
 
-<!-- Example of paragraph of text -->
 
 ## Dokumentacja Jira i Confluence
 Postanowiłam poddać wspólnej analizie dokumentacje systemów Jira i Confluence, gdyż zostały one opracowane w niemal identyczny sposób. Obie znajdują się na tej samej platformie w dziale Atlassian Support.
@@ -107,6 +102,7 @@ Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/su
 - Zamieszczone są linki prowadzące do materiałów referencyjnych.
 - Istnieje możliwość łatwego powrotu na górę strony.
 - W przypadku bardziej rozbudowanych rozdziałów są specjalne strony startowe z odnośnikami do bardziej szczegółowych treści.
+- Nie ma konieczności długiego scrollowania stron; rozdziały są krótkie, a jeśli treści jest więcej, zamieszczone są linki prowadzące do bardziej szczegółowych opisów.
 
 #### Interfejs
 - Teksty napisane są dość dużymi literami i czytelną czcionką, co jest korzystne dla osób mających problemy z widzeniem. Treści mają wyraźne nagłówki. Stosowane jest również **pogrubienie**.
@@ -140,7 +136,7 @@ Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/su
 
 
 ## Podsumowanie
-Na podstawie wskazanej powyżej analizy chciałabym zaprezentować ocenę własną głównych cech dokumentacji systemów Jira/Confluence i Flare:
+Na podstawie wskazanej powyżej analizy chciałabym zaprezentować ocenę własną głównych cech dokumentacji systemów Jira/Confluence i MadCap Flare:
 
 | Kategoria           | Dostępność       | Struktura          | Interfejs         |  Aktualizacje         | Informacje zwrotne         | 
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |  
