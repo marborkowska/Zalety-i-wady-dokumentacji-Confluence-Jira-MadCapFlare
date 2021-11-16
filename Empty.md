@@ -90,7 +90,7 @@ Dokumentacja systemu Jira jest dostępna na tej [stronie](https://support.atlass
 #### Struktura
 - Stronę startową trzeba dość sporo przewijać, aby zobaczyć, co znajduje się na dole (dotyczy to zwłaszcza dokumentacji systemu Jira. Można by było skondensować treści, by się wyświetlały bez konieczności przewijania (np. poprzez prezentację w formie ikonek lub podział na mniejsze sekcje). Byłaby to taka strona wprowadzająca do bardziej szczegółowych treści. 
 - Podstrony również wymagają przewijania ([przykład](https://support.atlassian.com/jira-software-cloud/docs/advanced-search-reference-jql-fields/)). Jest co prawda klikalny spis treści, ale znajduje się on po prawej stronie, poniżej powiązanych treści i nie rzuca się w oczy. Powinien on być umiejscowiony w bardziej widocznym miejscu.
-- Brakuje mi funkcjonalności powrotu na górę strony w przypadku długich rozdziałów.
+- Co prawda pojawia się opcja powrotu na górę strony w przypadku długich rozdziałów, ale nie jest zbyt widoczna.
 #### Interfejs
 - Dla jednych prosty interfejs to zaleta, ale dla innych może być wadą. Może warto by było wprowadzić więcej elementów graficznych na stronie, np. podział sekcji na kolorowe kafelki (klikalne) czy więcej ikonek. Co prawda pojawia się kilka bloków tematycznych ale dopiero po kliknięciu na *Documentation* (w górnym menu). Może to nie być zbyt intuicyjne dla użytkownika.
 #### Aktualizacje
