@@ -88,8 +88,8 @@ Dokumentacja systemu Jira jest dostępna na tej [stronie](https://support.atlass
 - Brak materiałów interaktywnych, jak choćby krótkich filmików wideo.
 - Brak możliwości pobrania treści w formacie pdf czy wydruku bezpośrednio ze strony.
 #### Struktura
-- Stronę startową trzeba dość sporo scrollować, aby zobaczyć, co znajduje się na dole (dotyczy to zwłaszcza dokumentacji systemu Jira). Można by było skondensować treści, by się wyświetlały bez konieczności scrollowania (np. poprzez prezentację w formie ikonek lub podział na mniejsze sekcje). Byłaby to taka strona wprowadzająca do bardziej szczegółowych treści. 
-- Podstrony również wymagają scrollowania. Jest co prawda klikalny spis treści, ale znajduje się on po prawej stronie, poniżej powiązanych treści i nie rzuca się w oczy. Powinien on być umiejscowiony w bardziej widocznym miejscu.
+- Stronę startową trzeba dość sporo scrollować, aby zobaczyć, co znajduje się na dole (dotyczy to zwłaszcza dokumentacji systemu Jira. Można by było skondensować treści, by się wyświetlały bez konieczności scrollowania (np. poprzez prezentację w formie ikonek lub podział na mniejsze sekcje). Byłaby to taka strona wprowadzająca do bardziej szczegółowych treści. 
+- Podstrony również wymagają scrollowania ([przykład](https://support.atlassian.com/jira-software-cloud/docs/save-your-search-as-a-filter/)). Jest co prawda klikalny spis treści, ale znajduje się on po prawej stronie, poniżej powiązanych treści i nie rzuca się w oczy. Powinien on być umiejscowiony w bardziej widocznym miejscu.
 #### Interfejs
 - Dla jednych prosty interfejs to zaleta, ale dla innych może być wadą. Może warto by było wprowadzić więcej elementów graficznych na stronie, np. podział sekcji na kolorowe kafelki (klikalne) czy więcej ikonek. Co prawda pojawia się kilka bloków tematycznych ale dopiero po kliknięciu na *Documentation* (w górnym menu). Może to nie być zbyt intuicyjne dla użytkownika.
 #### Aktualizacje
