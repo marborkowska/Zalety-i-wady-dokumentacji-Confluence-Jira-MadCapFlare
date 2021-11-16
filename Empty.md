@@ -4,7 +4,6 @@ Celem tego opracowania jest zaprezentowanie mocnych i słabych stron dokumentacj
 Pogrupowałam cechy poszczególnych dokumentacji według wybranych kategorii, aby łatwiej było je ze sobą porównać.
  
 
-- [Zalety i wady dokumentacji Confluence/Jira/MadCap Flare](#zalety-i-wady-dokumentacji-confluencejiramadcap-flare)
   - [Dokumentacja Jira i Confluence](#dokumentacja-jira-i-confluence)
     - [Zalety](#zalety)
       - [Dostępność](#dostępność)
