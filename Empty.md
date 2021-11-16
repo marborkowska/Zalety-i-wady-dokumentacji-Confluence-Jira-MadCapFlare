@@ -88,8 +88,8 @@ Dokumentacja systemu Jira jest dostępna na tej [stronie](https://support.atlass
 - Brak materiałów interaktywnych, jak choćby krótkich filmików wideo.
 - Brak możliwości pobrania treści w formacie pdf czy wydruku bezpośrednio ze strony.
 #### Struktura
-- Stronę startową trzeba dość sporo scrollować, aby zobaczyć, co znajduje się na dole (dotyczy to zwłaszcza dokumentacji systemu Jira. Można by było skondensować treści, by się wyświetlały bez konieczności scrollowania (np. poprzez prezentację w formie ikonek lub podział na mniejsze sekcje). Byłaby to taka strona wprowadzająca do bardziej szczegółowych treści. 
-- Podstrony również wymagają scrollowania ([przykład](https://support.atlassian.com/jira-software-cloud/docs/save-your-search-as-a-filter/)). Jest co prawda klikalny spis treści, ale znajduje się on po prawej stronie, poniżej powiązanych treści i nie rzuca się w oczy. Powinien on być umiejscowiony w bardziej widocznym miejscu.
+- Stronę startową trzeba dość sporo przewijać, aby zobaczyć, co znajduje się na dole (dotyczy to zwłaszcza dokumentacji systemu Jira. Można by było skondensować treści, by się wyświetlały bez konieczności przewijania (np. poprzez prezentację w formie ikonek lub podział na mniejsze sekcje). Byłaby to taka strona wprowadzająca do bardziej szczegółowych treści. 
+- Podstrony również wymagają przewijania ([przykład](https://support.atlassian.com/jira-software-cloud/docs/save-your-search-as-a-filter/)). Jest co prawda klikalny spis treści, ale znajduje się on po prawej stronie, poniżej powiązanych treści i nie rzuca się w oczy. Powinien on być umiejscowiony w bardziej widocznym miejscu.
 - Brakuje mi funkcjonalności powrotu na górę strony w przypadku długich rozdziałów.
 #### Interfejs
 - Dla jednych prosty interfejs to zaleta, ale dla innych może być wadą. Może warto by było wprowadzić więcej elementów graficznych na stronie, np. podział sekcji na kolorowe kafelki (klikalne) czy więcej ikonek. Co prawda pojawia się kilka bloków tematycznych ale dopiero po kliknięciu na *Documentation* (w górnym menu). Może to nie być zbyt intuicyjne dla użytkownika.
@@ -119,9 +119,9 @@ Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/su
 ![Strona](Strona.png)
 
 - Zamieszczone są linki prowadzące do materiałów referencyjnych.
-- Istnieje możliwość łatwego powrotu na górę strony w przypadku bardziej rozbudowanych sekcji.
+- Istnieje możliwość łatwego powrotu na górę strony w przypadku dłuższych sekcji wymagających przewijania.
 - W przypadku bardziej rozbudowanych rozdziałów są specjalne strony startowe z odnośnikami do bardziej szczegółowych treści ([przykład](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Translation-Localization/Translation-Localization.htm)).
-- Nie ma konieczności długiego scrollowania stron; rozdziały są krótkie, a jeśli treści jest więcej, zamieszczone są linki prowadzące do bardziej szczegółowych opisów.
+- Nie ma konieczności długiego przewijania stron; rozdziały są krótkie, a jeśli treści jest więcej, zamieszczone są linki prowadzące do bardziej szczegółowych opisów.
 
 #### Interfejs
 - Teksty napisane są dość dużymi literami i czytelną czcionką, co jest korzystne dla osób mających problemy z widzeniem. Treści mają wyraźne nagłówki. Stosowane jest również **pogrubienie**.
