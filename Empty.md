@@ -149,7 +149,7 @@ Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/su
 #### Aktualizacje
 - Brak informacji na stronie głównej i podstronach o tym, kiedy je ostatnio aktualizowano.
 #### Informacje zwrotne
-- Brak możliwości wyrażenia feedbacku o treściach zamieszczonych w dokumentacji.
+- Brak możliwości wyrażenia feedbacku o treściach zamieszczonych w dokumentacji
 
 
 
