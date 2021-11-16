@@ -91,7 +91,7 @@ Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/su
 #### Dostępność
 - Dokumentacja jest łatwo dostępna ze strony głównej produktu.
 - Istnieje możliwość wydruku treści czy zapisania *User Guide* i *Tutoriala* w formie pliku pdf.
-- Dostępne są treści video: krótkie instruktażowe filmiki bezpośrednio przy opisie danej fukncjonalności.
+- Dostępne są treści video: krótkie instruktażowe filmiki bezpośrednio przy opisie danej funkcjonalności.
 
 ![Ikonki](Madcap_ikonki.png)
 
@@ -129,6 +129,9 @@ Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/su
 - Wyniki wyszukiwania otwierają się w tym samym oknie. Lepszą funkcjonalnością jest ich otwieranie w osobnym oknie.
 #### Interfejs
 - W niektórych rozdziałach brakuje przestrzeni w tekście, przez co trudniej dotrzeć do tego, czego się poszukuje. Te bloki tekstu powodują, ze trzeba je przeczytać w całości, a nie wystarczy jedynie przejrzeć.
+
+![Bloki](Bloki.png)
+
 #### Aktualizacje
 - Brak informacji na stronie głównej i podstronach o tym, kiedy je ostatnio aktualizowano.
 #### Informacje zwrotne
