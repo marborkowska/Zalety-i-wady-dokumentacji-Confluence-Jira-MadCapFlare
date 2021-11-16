@@ -147,6 +147,8 @@ Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/su
 
 ![Bloki](Bloki.png)
 
+- Uważam, że menu kontekstowe po lewej stronie powinno być jednak na białym tle, by było bardziej czytelne dla osób ze specjalnymi potrzebami.
+
 #### Aktualizacje
 - Brak informacji na stronie głównej i podstronach o tym, kiedy je ostatnio aktualizowano.
 #### Informacje zwrotne
