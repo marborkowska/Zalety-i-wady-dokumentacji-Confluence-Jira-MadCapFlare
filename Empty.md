@@ -79,7 +79,7 @@ Dokumentacja systemu Jira jest dostępna na tej [stronie](https://support.atlass
 - Pod koniec każdej sekcji jest pytanie o przydatność treści dla użytkownika i miejsce na udzielenie feedbacku. 
   
 ![feedback](Jira_screen8.png)
-- Jest również link do forum Społeczności, na którym można zadać dodatkowe pytania lub rozpocząć dyskusję.
+- Jest również link do forum [Społeczności](https://community.atlassian.com/t5/custom/page/page-id/create-post-step-1?add-tags=confluence,Cloud&from-cac=true), na którym można zadać dodatkowe pytania lub rozpocząć dyskusję.
 
 
 ### Wady
