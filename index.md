@@ -33,7 +33,7 @@ I have categorised features of particular documents so that it was easy to compa
 
 
 ## Dokumentation of Jira and Confluence
-I have decided to analyse Jira and Confluence together, because they were drafted in an almost identical way. Both can be found on the same platform in Atlassian Support.
+I have decided to analyse the documentations of Jira and Confluence together, because they were drafted in an almost identical way. Both can be found on the same platform in Atlassian Support.
 
 The Jira documentation is available at this [page](https://support.atlassian.com/jira-software-cloud/resources/) and the one for Confluence under this [link](https://support.atlassian.com/confluence-cloud/resources), both in the *Documentation* section.
 
