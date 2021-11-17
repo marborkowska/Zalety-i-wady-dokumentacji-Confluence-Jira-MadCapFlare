@@ -165,9 +165,9 @@ On the basis of the above analysis I would like to present my evaluation of the 
 | Jira/Confluence   | oo   | oo   | oo   | ooo   | ooo   | 
 | Flare  | ooo | ooo | oo | o | -- | 
 
-Key:
+*Key:*
 
-ooo - very good feature
+ooo - very good
 
 oo - requiring some small changes
 
