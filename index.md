@@ -48,7 +48,7 @@ The Jira documentation is available at this [page](https://support.atlassian.com
 - After hovering the mouse over the title, a short section summary is displayed.
   
 ![podsumowanie](Jira_screen7.png) 
-- All contents are grouped in only few main sections, which makes the user not overwhemed by too much information.
+- All contents are grouped in only few main sections, as a result of which the user is not overwhemed by too much information.
 - On top of each page there is a category tree.
 - On the left you can click on ![trzy kreski](Jira_screen3.png) and a context menu will be displayed. 
 - In particular sections on the right there are cross-reference links.
@@ -63,7 +63,7 @@ The Jira documentation is available at this [page](https://support.atlassian.com
 - Clear content structure: there are numbered lists, bullet points, short paragraphs. For better clarity some contents are written in **bold** or *italic*. A user can also come across screenshots and tables with graphical elements. 
    
 ![tłuste](Jira_screen6.png)
-- Throughout the documentaton 3 types of context messages are used, which make the user pay special attention to certain aspects of a given functionality (information, warning and specifying) 
+- Throughout the documentaton 3 types of context messages are used, which makes the user pay special attention to certain aspects of a given functionality (information, warning and specification) 
   
  ![komunikat](Jira_screen5.png)
 
@@ -84,15 +84,15 @@ The Jira documentation is available at this [page](https://support.atlassian.com
 
 ### Weaknesses
 #### Availability
-- The documentation is available only in English. I have not noticed that the translation is available into any other language or that machine translation was possible through an embedded engine.
+- The documentation is available only in English. I have not noticed translation available into any other language or that machine translation was possible through an embedded engine.
 - There are no (or very few) interactive materials such as short videos.
-- It is not possible to download contents as a pdf file or print the document directly from the page in a printer-friendlt format.
+- It is not possible to download contents as a pdf file or print the document directly from the page in a printer-friendly format.
 #### Structure
-- In some cases the homepage needs to be scrolled a lot to see what is at the end (it concerns mostly Jira documentation). It would be recommended to make the contents more concise so that they were shown without the need to scroll the page (e.g. by presenting them in the form of links or icons or divide them into smaller sections). Some more intro pages are recommended. 
-- Subpages also require scrolling ([example](https://support.atlassian.com/jira-software-cloud/docs/advanced-search-reference-jql-fields/)). Even though they contain clickable table of contents, it is displayed on the right below references and is not easy to spot. Whereas it should be found in a more visible place.
+- In some cases the homepage needs to be scrolled a lot to see what is at the end (it concerns mostly Jira documentation). It would be recommended to make the contents more concise so that they were shown without the need to scroll the page (e.g. by presenting them in the form of links or icons, or divide them into smaller sections). I would recommend developing some more intro pages. 
+- Subpages also require scrolling ([example](https://support.atlassian.com/jira-software-cloud/docs/advanced-search-reference-jql-fields/)). Even though they contain a clickable table of contents, it is displayed on the right below references and is not easy to spot. However, it should be found in a more visible place.
 
 #### Interface
-- For some a simple interface is an advantage, for some it can be the opposite. Maybe it would be good to introduce  more graphical elements on some pages, such as colorful tiles. Although there are a few themes which group content, but only after clicking on *Documentation* (in top menu). I am afraid it is not very intuitive for a user.
+- For some a simple interface is an advantage, for others it can be the opposite. Maybe it would be good to introduce more graphical elements on some pages, such as colorful tiles. Although there are a few themes which group content, but only after clicking on *Documentation* (in top menu). I am afraid it is not very intuitive for a user.
 - There is an option to return to top of the page, however, in case of lengthy sessions, it is not clearly visible.
 #### Updates
 - I have not found separate *What's new* or *Release notes* sections containing a summary of changes made recently and new features introduced with the latest upgrade.
@@ -113,25 +113,25 @@ The documentation is available in the [Support](https://www.madcapsoftware.com/s
 - It is written in plain language (*Simplified Technical English*) understandable for everyone: active form of verbs short sentences, direct "you" form.
 - Users can easily access additional information on the software such as a blog, webinars, Community, Troubleshooting.
 #### Structure
-- A big searcher is the key feature on the page with a small searcher available on each subpage. They both show search results correctly e.g. by keywords but in the same window. What is interesting is that if there is a video for a certain feature, it opens automatically with search results.
-- The MadCap Flare's [homepage](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Home.htm) is well developed; it contains only few sections with specific focus on basic features and training videos.
+- A big searcher is the key feature on the homepage with a small searcher available on each subpage. They both show search results correctly e.g. by keywords but in the same window. What is interesting is that if there is a video for a certain feature, it opens automatically with search results.
+- The MadCap Flare's [homepage](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Home.htm) is well developed; it contains only a few sections with specific focus on basic features and training videos.
 - There is a drop-down side menu with the table of contents listing a description of particular features categorised in a tree structure.
 
 ![Strona](Strona.png)
 
 - There are numerous cross-reference links.
-- A user can easily return to top of the page in case lengthy sections which require scrolling.
+- A user can easily return to top of the page if lengthy sections require scrolling.
 - For more detailed sections there are special intro pages with links to more precise content ([example](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Translation-Localization/Translation-Localization.htm)).
-- It is not necessary to scroll pages a lot: sections are short and if there are more contents, they contain links directing to more specific descriptionsw.
+- It is not necessary to scroll pages a lot: sections are short and if there are more contents, they contain links directing to more specific descriptions.
 
 #### Interface
-- Texts are written in big letters and clear font, which is advantageous for visually impaired persons. There are also clear headers with important elements written in **bold**.
-- Next to description of some features there are screenshots which can be zoomed in and out.
+- Texts are written in big letters with a clear font, which is advantageous for visually-impaired persons. There are also clear headers with important elements in **bold**.
+- Next to descriptions of some features there are screenshots which can be zoomed in and out.
 
 ![Zoom](Madcap_zoom.png)
 
-- The design is ascetic with only few colours, but it does not seem sado.
-- Important contents and examples are featured with a colourful frames.
+- The design is ascetic with only a few colours, but it does not seem sad.
+- Important contents and examples are featured with colourful frames.
 - Information for special groups are marked differently, e.g. *Information for developers* (on the red background).
 
 #### Updates
@@ -139,16 +139,16 @@ The documentation is available in the [Support](https://www.madcapsoftware.com/s
 
 ### Weaknesses
 #### Availability
-- The documentation is available only in English. I have not noticed that the translation is available into any other language or that machine translation was possible through an embedded engine. 
-- There are no subtitles in videos. Moreover, the speaker speaks very fast, which can make it difficult for the user to understand what is being said.
+- The documentation is available only in English. I have not noticed translation available into any other language or that machine translation was possible through an embedded engine. 
+- There are no subtitles in videos. Moreover, the voice-over is fast, which can make it difficult for the user to understand what is being said.
 #### Structure
 - Search results open in the same window. It would be better if they were displayed in a separate window.
 #### Interface
-- In some sections there is not much space in the text, as a result of which it is more difficult to access what is searched. These text blocks require the user to read them in whole and not only browse through them for specific information.
+- In some sections there is not much space in the text, as a result of which it is more difficult to access what is being searched. These text blocks require the user to read them in whole and not only browse through them for specific information.
 
 ![Bloki](Bloki.png)
 
-- In my opinion the context menu on the left should rather be on the white background so that it was more clear for visually impaired persons.
+- In my opinion the context menu on the left should rather be on the white background so that it was more clear for visually-impaired persons.
 
 #### Updates
 - There is no information on the homepage or particular pages on when they were last updated.
@@ -167,7 +167,7 @@ On the basis of the above analysis I would like to present my evaluation of the 
 
 ooo - very good
 
-oo - requiring some changes
+oo - requiring some small changes
 
 o - more modifications should be made
 
