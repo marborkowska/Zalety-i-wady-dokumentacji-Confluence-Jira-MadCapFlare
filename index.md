@@ -89,7 +89,7 @@ The Jira documentation is available at this [page](https://support.atlassian.com
 - It is not possible to download contents as a pdf file or print the document directly from the page in a printer-friendlt format.
 #### Structure
 - In some cases the homepage needs to be scrolled a lot to see what is at the end (it concerns mostly Jira documentation). It would be recommended to make the contents more consise so that they were shown without the need to scroll the page (e.g. by presenting them in the form of links or icons or divide them into smaller sections). Some more intro pages are recommended. 
-- Sub=pages also require scrolling ([example](https://support.atlassian.com/jira-software-cloud/docs/advanced-search-reference-jql-fields/)). Even though they contain clickable table of contents, it is displayed on the right below references and is not easy to spot. Whereas it should be found in a more visible place.
+- Subpages also require scrolling ([example](https://support.atlassian.com/jira-software-cloud/docs/advanced-search-reference-jql-fields/)). Even though they contain clickable table of contents, it is displayed on the right below references and is not easy to spot. Whereas it should be found in a more visible place.
 
 #### Interface
 - For some a simple interface is an advantage, for some it can be the opposite. Maybe it would be good to introduce  more graphical elements on some pages, such as colorful tiles. Although there are a few themes which group content, but only after clicking on *Documentation* (in top menu). I am afraid it is not very intuitive for a user.
