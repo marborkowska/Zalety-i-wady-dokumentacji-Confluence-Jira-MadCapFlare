@@ -166,6 +166,7 @@ On the basis of the above analysis I would like to present my evaluation of the 
 | Flare  | ooo | ooo | oo | o | -- | 
 
 Key:
+
 ooo - very good feature
 
 oo - requiring some small changes
