@@ -1,174 +1,175 @@
-# Zalety i wady dokumentacji Confluence/Jira/MadCap Flare
-Celem tego opracowania jest zaprezentowanie mocnych i słabych stron dokumentacji wskazanych powyżej narzędzi.
+# Strengths and weaknesses of Confluence/Jira/MadCap Flare systems
+This paper aims to present strenghts and weaknesses of the documentation available for the above-mentioned tools.
 
-Pogrupowałam cechy poszczególnych dokumentacji według wybranych kategorii, aby łatwiej było je ze sobą porównać.
+I have categorised features of particular documents so that it was easy to compare them.
  
 
-  - [Dokumentacja Jira i Confluence](#dokumentacja-jira-i-confluence)
-    - [Zalety](#zalety)
-      - [Dostępność](#dostępność)
-      - [Struktura](#struktura)
-      - [Interfejs](#interfejs)
-      - [Aktualizacje](#aktualizacje)
-      - [Informacje zwrotne](#informacje-zwrotne)
-    - [Wady](#wady)
-      - [Dostępność](#dostępność-1)
-      - [Struktura](#struktura-1)
-      - [Interfejs](#interfejs-1)
-      - [Aktualizacje](#aktualizacje-1)
-  - [Dokumentacja MadCap Flare](#dokumentacja-madcap-flare)
-    - [Zalety](#zalety-1)
-      - [Dostępność](#dostępność-2)
-      - [Struktura](#struktura-2)
-      - [Interfejs](#interfejs-2)
-      - [Aktualizacje](#aktualizacje-2)
-    - [Wady](#wady-1)
-      - [Dostępność](#dostępność-3)
-      - [Struktura](#struktura-3)
-      - [Interfejs](#interfejs-3)
-      - [Aktualizacje](#aktualizacje-3)
-      - [Informacje zwrotne](#informacje-zwrotne-1)
-  - [Podsumowanie](#podsumowanie)
+  - [Dokumentation of Jira and Confluence](#dokumentation-of-jira-and-confluence)
+    - [Strengths](#strengths)
+      - [Availability](#availability)
+      - [Structure](#structure)
+      - [Interface](#interface)
+      - [Updates](#updates)
+      - [Feedback](#feedback)
+    - [Weaknesses](#weaknesses)
+      - [Availability](#availability-1)
+      - [Structure](#structure-1)
+      - [Interface](#interface-1)
+      - [Updates](#updates-1)
+  - [MadCap Flare documentation](#madcap-flare-documentation)
+    - [Strengths](#strengths-1)
+      - [Availability](#availability-2)
+      - [Structure](#structure-2)
+      - [Interface](#interface-2)
+      - [Updates](#updates-2)
+    - [Weaknesses](#weaknesses-1)
+      - [Availability](#availability-3)
+      - [Structure](#structure-3)
+      - [Interface](#interface-3)
+      - [Updates](#updates-3)
+      - [Feedback](#feedback-1)
+  - [Summary](#summary)
  
 
 
-## Dokumentacja Jira i Confluence
-Postanowiłam poddać wspólnej analizie dokumentacje systemów Jira i Confluence, gdyż zostały one opracowane w niemal identyczny sposób. Obie znajdują się na tej samej platformie w dziale Atlassian Support.
+## Dokumentation of Jira and Confluence
+I have decided to analyse Jira and Confluence together, because they were drafted in an almost identical way. Both can be found on the same platform in Atlassian Support.
 
-Dokumentacja systemu Jira jest dostępna na tej [stronie](https://support.atlassian.com/jira-software-cloud/resources/) a Confluence na pod tym [linkiem](https://support.atlassian.com/confluence-cloud/resources), obie w sekcji *Documentation*.
+The Jira documentation is available at this [page](https://support.atlassian.com/jira-software-cloud/resources/) and the one for Confluence under this [link](https://support.atlassian.com/confluence-cloud/resources), both in the *Documentation* section.
 
-### Zalety
-#### Dostępność
-- Dokumentacja jest łatwo dostępna ze strony głównej Atlassian. Użytkownik może do niej łatwo trafić.
-- Jest ona napisana prostym język (*Simplified Technical English*), który ma być zrozumiały dla każdego: strona czynna czasowników, krótkie zdania, forma bezpośrednia „you”.
+### Strengths
+#### Availability
+- The documentation is easily accessible from the Atlassian homepage. A user can find it quickly.
+- It is written in plain language (*Simplified Technical English*) understandable for everyone: active form of verbs short sentences, direct "you" form.
   
-#### Struktura
-- W centralnym miejscu na stronie jest wyszukiwarka, która poprawnie zwraca wyszukiwane treści np. po słowie kluczowym a wyniki wyszukiwania wyświetlają się w nowym oknie.
-- Dokumentacja to zbiór linków prowadzących do coraz bardziej szczegółówych treści. Ma strukturę drzewka – od ogółu przechodzi się do szczegółu.
-- Po najechaniu kursorem na tytuł wyświetla się krótkie podsumowanie zawartości. 
+#### Structure
+- In the central place on the page we can see a searcher that correctly shows search results e.g. by keywords in a separate window.
+- The documentation consists of numerous links leading to more more precise contents. It has a tree structure going from general to detail.
+- After hovering the mouse over the title, a short section summary is displayed.
   
 ![podsumowanie](Jira_screen7.png) 
-- Wszystkie treści są zebrane w zaledwie kilka głównych sekcji, co sprawia, że użytkownik nie jest przytłoczony nadmiarem informacji. 
-- U góry każdej strony jest ścieżka kategorii.
-- Po lewej stronie można kliknąć na ![trzy kreski](Jira_screen3.png) i wyświetli się menu kontekstowe. 
-- W poszczególnych rozdziałach po prawej stronie są linki do powiązanych treści.
+- All contents are grouped in only few main sections, which makes the user not overwhemed by too much information.
+- On top of each page there is a category tree.
+- On the left you can click on ![trzy kreski](Jira_screen3.png) and a context menu will be displayed. 
+- In particular sections on the right there are cross-reference links.
 
-#### Interfejs
-- Bardzo prosty, wręcz minimalistyczny, przejrzysty i spójny interfejs (jedynie kilka kolorów na białym tle)
-- Nagłówki są napisane większą czcionką, a pod spodem jest krótka informacja na temat zawartości sekcji, co zapewnia większą czytelność i szybsze dotarcie do poszukiwanych treści.
-- Na głównym ekranie w każdej sekcji znajduje się tylko po 5 linków. Resztę można podejrzeć po kliknięciu w *Show more*, co znów sprawia, że nie jest wyświetlanych za dużo informacji na raz.
+#### Interface
+- The documentation has very simple, minimalistic and coherent interface (only several colours against a white background).
+- Headers are written in a bigger font with short information on what the section contains underneath, which makes it more clear for the user who can access the searched texts more quickly.
+- Each section on the main screen contains only 5 links. The rest can be seen after clicking on *Show more*, which again follows the rule for not displaying too much information at a time.
 
 ![Linki](Screen_linki.png)
 
-- Czytelna kategoryzacja treści – stosowane są listy numerowane, wypunktowane, krótkie akapity. Treści z aplikacji są **wytłuszczone** lub napisane *kursywą*. Stosowane są screeny, tabelki z elementami graficznymi. 
+- Clear content structure: there are numbered lists, bullet points, short paragraphs. For better clarity some contents are written in **bold** or *italic*. A user can also come across screenshots and tables with graphical elements. 
    
 ![tłuste](Jira_screen6.png)
-- Stosowane są 3 rodzaje wiadomości kontekstowych, zwracających szczególną uwagę użytkownika na pewne aspekty funkcjonalności (w celu informacyjnym, ostrzegawczym i uszczegóławiającym). 
+- Throughout the documentaton 3 types of context messages are used, which make the user pay special attention to certain aspects of a given functionality (information, warning and specifying) 
   
  ![komunikat](Jira_screen5.png)
 
-#### Aktualizacje
-- Można podejrzeć poprzednią wersję dokumentacji danej funkcjonalności, jeśli zostały w niej wprowadzone zmiany. 
+#### Updates
+- It is possible to read the previous version of documentation for a particular feature if any changes have been made to it. 
   
 ![komunikat](Jira_screen11.png)
-- Na każdej stronie jest informacja o tym, kiedy ją ostatnio aktualizowano. 
+- Each page contains brief information on the date when it was last updated. 
   
 ![ścieżka](Jira_screen12.png)
 
-#### Informacje zwrotne
-- Pod koniec każdej sekcji jest pytanie o przydatność treści dla użytkownika i miejsce na udzielenie feedbacku. 
+#### Feedback
+- At the end of each section a user can answer a question if the content was helpful and provide feedback. 
   
 ![feedback](Jira_screen8.png)
-- Jest również link do forum [Społeczności](https://community.atlassian.com/t5/custom/page/page-id/create-post-step-1?add-tags=confluence,Cloud&from-cac=true), na którym można zadać dodatkowe pytania lub rozpocząć dyskusję.
+- There is also a link to the [Community](https://community.atlassian.com/t5/custom/page/page-id/create-post-step-1?add-tags=confluence,Cloud&from-cac=true) page where it is possible to ask additional questions and start or join a discussion.
 
 
-### Wady
-#### Dostępność
-- Dokumentacja jest dostępna wyłącznie w języku angielskim. Nie zauważyłam, by było dostępne tłumaczenie na inne języki lub by była możliwość tłumaczenia maszynowego poprzez wbudowany silnik.
-- Brak materiałów interaktywnych, jak choćby krótkich filmików wideo.
-- Brak możliwości pobrania treści w formacie pdf czy wydruku bezpośrednio ze strony.
-#### Struktura
-- Stronę startową trzeba dość sporo przewijać, aby zobaczyć, co znajduje się na dole (dotyczy to zwłaszcza dokumentacji systemu Jira. Można by było skondensować treści, by się wyświetlały bez konieczności przewijania (np. poprzez prezentację w formie ikonek lub podział na mniejsze sekcje). Byłaby to taka strona wprowadzająca do bardziej szczegółowych treści. 
-- Podstrony również wymagają przewijania ([przykład](https://support.atlassian.com/jira-software-cloud/docs/advanced-search-reference-jql-fields/)). Jest co prawda klikalny spis treści, ale znajduje się on po prawej stronie, poniżej powiązanych treści i nie rzuca się w oczy. Powinien on być umiejscowiony w bardziej widocznym miejscu.
-- Co prawda pojawia się opcja powrotu na górę strony w przypadku długich rozdziałów, ale nie jest zbyt widoczna.
-#### Interfejs
-- Dla jednych prosty interfejs to zaleta, ale dla innych może być wadą. Może warto by było wprowadzić więcej elementów graficznych na stronie, np. podział sekcji na kolorowe kafelki (klikalne) czy więcej ikonek. Co prawda pojawia się kilka bloków tematycznych ale dopiero po kliknięciu na *Documentation* (w górnym menu). Może to nie być zbyt intuicyjne dla użytkownika.
-#### Aktualizacje
-- Nie znalazłam nigdzie osobnej sekcji *What's new* czy *Release notes*, czyli podsumowania ostatnio wdrożonych zmian i nowości.
+### Weaknesses
+#### Availability
+- The documentation is available only in English. I have not noticed that the translation is available into any other language or that machine translation was possible through an embedded engine.
+- There are no (or very few) interactive materials such as short videos.
+- It is not possible to download contents as a pdf file or print the document directly from the page in a printer-friendlt format.
+#### Structure
+- In some cases the homepage needs to be scrolled a lot to see what is at the end (it concerns mostly Jira documentation). It would be recommended to make the contents more consise so that they were shown without the need to scroll the page (e.g. by presenting them in the form of links or icons or divide them into smaller sections). Some more intro pages are recommended. 
+- Sub=pages also require scrolling ([example](https://support.atlassian.com/jira-software-cloud/docs/advanced-search-reference-jql-fields/)). Even though they contain clickable table of contents, it is displayed on the right below references and is not easy to spot. Whereas it should be found in a more visible place.
+
+#### Interface
+- For some a simple interface is an advantage, for some it can be the opposite. Maybe it would be good to introduce  more graphical elements on some pages, such as colorful tiles. Although there are a few themes which group content, but only after clicking on *Documentation* (in top menu). I am afraid it is not very intuitive for a user.
+- There is an option to return to top of the page, however, in case of lengthy sessions, it is not clearly visible.
+#### Updates
+- I have not found separate *What's new* or *Release notes* sections containing a summary of changes made recently and new features introduced with the latest upgrade.
 
 
 
-## Dokumentacja MadCap Flare
-Dokumentacja jest dostępna w dziale [Support](https://www.madcapsoftware.com/support/) i jest bardzo rozbudowana. Do analizy wykorzystałam sekcję [Online Help](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Home.htm).
+## MadCap Flare documentation
+The documentation is available in the [Support](https://www.madcapsoftware.com/support/) section and is well developed. For my analysis I have used [Online Help](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Home.htm).
 
-### Zalety
-#### Dostępność
-- Dokumentacja jest łatwo dostępna ze strony głównej produktu.
-- Istnieje możliwość wydruku treści czy zapisania *User Guide* i *Tutoriala* w formie pliku pdf.
-- Dostępne są treści video: krótkie instruktażowe filmiki bezpośrednio przy opisie danej funkcjonalności.
+### Strengths
+#### Availability
+- The documentation is easily accessible from the product's homepage.
+- It is possible to print the contents or save the *User Guide* and the *Tutorial* as a pdf file.
+- Users can watch numerous short videos directly next to descriptions of particular features.
 
 ![Ikonki](Madcap_ikonki.png)
 
-- Używany jest prosty język (*Simplified Technical English*) zrozumiały dla każdego: strona czynna czasowników, krótkie zdania, forma bezpośrednia „you”.
-- Łatwy dostęp do dodatkowych informacji o oprogramowaniu: bloga, webinarów, społeczności,  *Troubleshooting*.
-#### Struktura
-- Duża wyszukiwarka jako kluczowa funkcjonalność na stronie; mała wyszukiwarka jest dostępna na każdej podstronie. Poprawnie zwracaja wyniki wyszukiwania, np. po słowie kluczowym, ale w tym samym oknie. Ciekawe jest to, że jeśli do danego słowa jest dostepny filmik, to otwiera się on automatycznie wraz z wynikami wyszukiwania.
-- Dobrze zbudowana [strona startowa](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Home.htm) produktu MadCap Flare – zaledwie kilka rozdziałów, zwrócenie uwagi na podstawy, filmiki instruktażowe
-- Rozwijany panel boczny: spis treści zawierający opis poszczególnych funkcjonalności pogrupowanych w kategorie - struktura drzewka.
+- It is written in plain language (*Simplified Technical English*) understandable for everyone: active form of verbs short sentences, direct "you" form.
+- Users can easily access additional information on the software such as a blog, webinars, Community, Troubleshooting.
+#### Structure
+- A big searcher is the key feature on the page with a small searcher available on each sub-page. They both show search results correctly e.g. by keywords but in the same window. What is interesting is that if there is a video for a certain feature, it opens automatically with search results.
+- The MadCap Flare's [homepage](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Home.htm) is well developed; it contains only few sections with specific focus on basic features and training videos.
+- There is a drop-down side menu with the table of contents listing a description of particular features categorised in a tree structure.
 
 ![Strona](Strona.png)
 
-- Zamieszczone są linki prowadzące do materiałów referencyjnych.
-- Istnieje możliwość łatwego powrotu na górę strony w przypadku dłuższych sekcji wymagających przewijania.
-- W przypadku bardziej rozbudowanych rozdziałów są specjalne strony startowe z odnośnikami do bardziej szczegółowych treści ([przykład](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Translation-Localization/Translation-Localization.htm)).
-- Nie ma konieczności długiego przewijania stron; rozdziały są krótkie, a jeśli treści jest więcej, zamieszczone są linki prowadzące do bardziej szczegółowych opisów.
+- There are numerous cross-reference links.
+- A user can easily return to top of the page in case lengthy sections which require scrolling.
+- For more detailed sections there are special intro pages with links to more precise content ([example](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Translation-Localization/Translation-Localization.htm)).
+- It is not necessary to scroll pages a lot: sections are short and if there are more contents, they contain links directing to more specific descriptionsw.
 
-#### Interfejs
-- Teksty napisane są dość dużymi literami i czytelną czcionką, co jest korzystne dla osób mających problemy z widzeniem. Treści mają wyraźne nagłówki. Stosowane jest również **pogrubienie**.
-- Przy opisie niektórych funkcjonalności zamieszczono screeny z możliwością ich powiększenia.
+#### Interface
+- Texts are written in big letters and clear font, which is advantageous for visually impaired persons. There are also clear headers with important elements written in **bold**.
+- Next to description of some features there are screenshots which can be zoomed in and out.
 
 ![Zoom](Madcap_zoom.png)
 
-- Design jest ascetyczny z niewielką liczbą kolorów, ale nie sprawia wrażenia smutnego.
-- Istotne treści i przykłady są wyróżnione w formie kolorowego obramowania.
-- Informacje dla specjalnych grup są specjalnie oznaczone, np. *Information for developers* (na czerwonym tle).
+- The design is ascetic with only few colours, but it does not seem sado.
+- Important contents and examples are featured with a colourful frames.
+- Information for special groups are marked differently, e.g. *Information for developers* (on the red background).
 
-#### Aktualizacje
-- Na stronie startowej znajduje się sekcja [What’s new](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Whats-New/Whats-New.htm) przedstawiająca podsumowanie ostatnio wdrożonych zmian i nowości wraz z filmikiem.
+#### Updates
+- On the homepage there is a [What’s new](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Whats-New/Whats-New.htm) section presenting a summary of last changes and new features with a video.
 
-### Wady
-#### Dostępność
-- Dokumentacja jest dostępna wyłącznie w języku angielskim. Nie zauważyłam, by było dostępne tłumaczenie na inne języki lub by była możliwość tłumaczenia maszynowego poprzez wbudowany silnik. 
-- Brak napisów na filmikach; ponadto lektor mówi bardzo szybko, co może utrudnić użytkownikowi zrozumienie treści.
-#### Struktura
-- Wyniki wyszukiwania otwierają się w tym samym oknie. Lepszą funkcjonalnością jest ich otwieranie w osobnym oknie.
-#### Interfejs
-- W niektórych rozdziałach brakuje przestrzeni w tekście, przez co trudniej dotrzeć do tego, czego się poszukuje. Te bloki tekstu powodują, ze trzeba je przeczytać w całości, a nie wystarczy jedynie przejrzeć.
+### Weaknesses
+#### Availability
+- The documentation is available only in English. I have not noticed that the translation is available into any other language or that machine translation was possible through an embedded engine. 
+- There are no subtitles in videos. Moreover, the speaker speaks very fast, which can make it difficult for the user to understand what is being said.
+#### Structure
+- Search results open in the same window. It would be better if they were displayed in a separate window.
+#### Interface
+- In some sections there is not much space in the text, as a result of which it is more difficult to access what is searched. These text blocks require the user to read them in whole and not only browse through them for specific information.
 
 ![Bloki](Bloki.png)
 
-- Uważam, że menu kontekstowe po lewej stronie powinno być jednak na białym tle, by było bardziej czytelne dla osób ze specjalnymi potrzebami.
+- In my opinion the context menu on the left should rather be on the white background so that it was more clear for visually impaired persons.
 
-#### Aktualizacje
-- Brak informacji na stronie głównej i podstronach o tym, kiedy je ostatnio aktualizowano.
-#### Informacje zwrotne
-- Brak możliwości wyrażenia feedbacku o treściach zamieszczonych w dokumentacji
+#### Updates
+- There is no information on the homepage or particular pages on when they were last updated.
+#### Feedback
+- It is not possible to provide feedback on the documentation.
 
 
 
-## Podsumowanie
-Na podstawie wskazanej powyżej analizy chciałabym zaprezentować ocenę własną głównych cech dokumentacji systemów Jira/Confluence i MadCap Flare:
+## Summary
+On the basis of the above analysis I would like to present my evaluation of the main features of documentation available for Jira/Confluence and MadCap Flare:
 
-| System/Kategoria           | Dostępność       | Struktura          | Interfejs         |  Aktualizacje         | Informacje zwrotne         | 
+| System/Category           | Availability      | Structure          | Interface         |  Updates         | Feedback         | 
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |  
 | Jira/Confluence   | oo   | oo   | oo   | ooo   | ooo   | 
 | Flare  | ooo | ooo | oo | o | -- | 
 
-ooo - bardzo dobrze rozwinięte 
+ooo - very good
 
-oo - wymaga niewielkiej poprawy 
+oo - requiring some changes
 
-o - sugerowane jest wprowadzenie zmian
+o - more modifications should be made
 
--- - brak funkcjonalności
+-- - no such feature
 
