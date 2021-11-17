@@ -88,7 +88,7 @@ The Jira documentation is available at this [page](https://support.atlassian.com
 - There are no (or very few) interactive materials such as short videos.
 - It is not possible to download contents as a pdf file or print the document directly from the page in a printer-friendlt format.
 #### Structure
-- In some cases the homepage needs to be scrolled a lot to see what is at the end (it concerns mostly Jira documentation). It would be recommended to make the contents more consise so that they were shown without the need to scroll the page (e.g. by presenting them in the form of links or icons or divide them into smaller sections). Some more intro pages are recommended. 
+- In some cases the homepage needs to be scrolled a lot to see what is at the end (it concerns mostly Jira documentation). It would be recommended to make the contents more concise so that they were shown without the need to scroll the page (e.g. by presenting them in the form of links or icons or divide them into smaller sections). Some more intro pages are recommended. 
 - Subpages also require scrolling ([example](https://support.atlassian.com/jira-software-cloud/docs/advanced-search-reference-jql-fields/)). Even though they contain clickable table of contents, it is displayed on the right below references and is not easy to spot. Whereas it should be found in a more visible place.
 
 #### Interface
@@ -113,7 +113,7 @@ The documentation is available in the [Support](https://www.madcapsoftware.com/s
 - It is written in plain language (*Simplified Technical English*) understandable for everyone: active form of verbs short sentences, direct "you" form.
 - Users can easily access additional information on the software such as a blog, webinars, Community, Troubleshooting.
 #### Structure
-- A big searcher is the key feature on the page with a small searcher available on each sub-page. They both show search results correctly e.g. by keywords but in the same window. What is interesting is that if there is a video for a certain feature, it opens automatically with search results.
+- A big searcher is the key feature on the page with a small searcher available on each subpage. They both show search results correctly e.g. by keywords but in the same window. What is interesting is that if there is a video for a certain feature, it opens automatically with search results.
 - The MadCap Flare's [homepage](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Home.htm) is well developed; it contains only few sections with specific focus on basic features and training videos.
 - There is a drop-down side menu with the table of contents listing a description of particular features categorised in a tree structure.
 
